@@ -1,55 +1,74 @@
 @charset "utf-8";
 
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
 body {
-  background: #F2EFE6; /* url("../images/background.png"); */
-  text-align: center;
-  font-family: sans-serif; }
+    background-color: #E9EBF7;
+} 
 
 h1 {
-  color: rgba(0, 0, 0, .3);
+  font-family: 'Bree Serif', serif;  
+  color: #3348B0;
   font-weight: bold;
   font-size: 32px;
-  letter-spacing: -1px;
-  text-transform: uppercase;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
-/* background: url("../images/middleman.png") no-repeat center 100px; */
-  padding: 350px 0 10px;
-  margin: 0; }
-
-.doc {
-  font-size: 14px;
-  margin: 0; }
-  .doc:before,
-  .doc:after {
-    opacity: .2;
-    padding: 6px;
-    font-style: normal;
-    position: relative;
-    content: "•"; }
-  .doc a {
-    color: rgba(0, 0, 0, 0.3); }
-    .doc a:hover {
-      color: #666; }
-
-.welcome {
-  -webkit-animation-name: welcome;
-  -webkit-animation-duration: .9s; }
-
-@-webkit-keyframes welcome {
-  from {
-    -webkit-transform: scale(0);
-    opacity: 0;
-  }
-  50% {
-   -webkit-transform: scale(0);
-   opacity: 0;
-  }
-  82.5% {
-    -webkit-transform: scale(1.03);
-    -webkit-animation-timing-function: ease-out;
-    opacity: 1;
-  }
-  to {
-    -webkit-transform: scale(1);
-  }
+  margin-top: 0px;
+  padding-top: 1em;
+  width: 70%;
+  margin: auto;
 }
+  
+p {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 1.5em;
+  color: #343B5E;
+  margin-top: 0px;
+  width: 70%;
+  margin: auto;
+  
+}
+
+.header {
+  background-image: url('/images/metal-plate-header2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  padding-top: 0;
+  padding-bottom: 40px;
+  min-height: 300px;
+}
+
+.header h1 {
+  font-family: 'Bree Serif', serif;
+  color: #EBEEFC;
+  text-align: center;
+  font-size: 80px;
+  padding-top: 70px;
+  padding-bottom: 40px;
+  text-shadow: 2px 2px 15px #2E365C;
+  margin: auto;
+}
+
+.header h2 {
+  font-family: 'Dancing Script', cursive;
+  color: #EBEEFC;
+  text-align: center;
+  font-size: 55px;
+  text-shadow: 2px 2px 15px #2E365C;
+  width: 60%;
+  margin: auto;
+}
+
+.header {
+ h2 {
+  
+} 
+
+p {
+  
+}
+  
+}
+
