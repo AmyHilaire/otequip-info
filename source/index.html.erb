@@ -1,16 +1,40 @@
 ---
 title: OT Equipment Info
+pageable: true
+per_page: 3
 ---
 
 <div class="header">
   
-  <link href='//fonts.googleapis.com/css?family=Dancing+Script:700|Bree+Serif' rel='stylesheet' type='text/css'>
   <h1>OT Equipment Info</h1>
   <h2>Equipping Occupational Therapists with independent product reviews</h2>
 </div>
 
 <div>
-  <link href='http://fonts.googleapis.com/css?family=Antic+Slab' rel='stylesheet' type='text/css'>
-  <h1>Hello World!</h1>
-  <p>Coming soon... Equipment commonly precribed by occupational therapists reviewed by OTs in the field.</p>
+<% if paginate && num_pages > 1 %>
+  <p>Page <%= page_number %> of <%= num_pages %></p>
+
+  <% if prev_page %>
+    <p><%= link_to 'Previous page', prev_page %></p>
+  <% end %>
+<% end %>
+</div>
+
+<div class="article-list">
+<% page_articles.each_with_index do |article, i| %>
+  <h1><%= link_to article.title, article %> </h1>
+  <div><%= article.date.strftime('%b %e') %></div>
+  <!-- use article.summary(250) if you have Nokogiri available to show just
+       the first 250 characters -->
+  <%= article.summary(250) %>
+  <!-- <%= article.body %> -->
+<% end %>
+</div>
+
+<div>
+<% if paginate %>
+  <% if next_page %>
+    <p><%= link_to 'Next page', next_page %></p>
+  <% end %>
+<% end %>
 </div>
