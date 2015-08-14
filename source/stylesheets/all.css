@@ -31,10 +31,10 @@ h1 {
 }
 
 .header {
-  background-image: url('/images/metal-plate-header2.jpg');
+  background-image: url('/images/metal-plate-header3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 0%;
   padding-top: 0;
   padding-bottom: 40px;
   min-height: 300px;
@@ -61,3 +61,7 @@ h1 {
   margin: auto;
 }
 
+
+.slim {
+  height: 100px;
+}
