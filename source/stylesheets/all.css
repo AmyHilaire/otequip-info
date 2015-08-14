@@ -9,14 +9,6 @@ body {
     background-color: #E9EBF7;
 } 
 
-.article-list {
-  width: 70%;
-  margin: auto;
-  font-family: 'Antic Slab', serif;
-  font-size: 1.5em;
-  color: #343B5E;
-  margin-top: 0px;
-}
 
 h1 {
   font-family: 'Bree Serif', serif;  
@@ -25,8 +17,18 @@ h1 {
   font-size: 32px;
   margin-top: 0px;
   padding-top: 1em;
+  padding-bottom: 0.5em;
 }
-  
+
+.article {
+  width: 70%;
+  margin: auto;
+  font-family: 'Antic Slab', serif;
+  font-size: 1.5em;
+  line-height: 1.8;
+  color: #343B5E;
+  margin-top: 0px;
+}
 
 .header {
   background-image: url('/images/metal-plate-header2.jpg');
