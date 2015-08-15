@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to OT Equipment Info
-category: 
+category: other
 ---
 
 A place for sharing ideas and experiences with equipment. If you were to look
