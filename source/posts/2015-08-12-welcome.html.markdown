@@ -4,15 +4,16 @@ title: Welcome to OT Equipment Info
 category: other
 ---
 
-A place for sharing ideas and experiences with equipment. If you were to look
-at a day in the life of an occupational therapist (OT), there's a good chance
-you'd come across specialised assistive equipment somewhere. OTs help people
-overcome obstacles such as illness, injury or disability to achieve a lifestlye
-that is meaningful to them. We do this by either *remediating* the problem, that
-is, helping the person recover, or *compensating* for the problem, by finding a
-way to work around it. We love presribing equipment because it provides a way
-for people to do things independently, or with less assistance than they would 
-otherwise need. 
+*A place for sharing ideas and experiences with equipment.*
+
+If you were to look at a day in the life of an occupational therapist (OT), 
+there's a good chance you'd come across specialised assistive equipment somewhere. 
+OTs help people overcome obstacles such as illness, injury or disability to 
+achieve a lifestlye that is meaningful to them. We do this by either *remediating* 
+the problem, that is, helping the person recover, or *compensating* for the problem,
+by finding a way to work around it. We love presribing equipment because [when done well]
+it provides a way for people to do things independently, or with less assistance 
+than they would otherwise need. 
 
 Some benefits of using assistive equipment include:
 

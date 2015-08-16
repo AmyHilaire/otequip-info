@@ -10,7 +10,8 @@
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <link href='//fonts.googleapis.com/css?family=Dancing+Script:700|Bree+Serif|Antic+Slab' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Dancing+Script:700|Bree+Serif' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:300,400,400italic,700' rel='stylesheet' type='text/css'>
 
     <%= stylesheet_link_tag "normalize", "all" %>
     <%= javascript_include_tag  "all" %>
@@ -27,6 +28,7 @@
       
       <div class="article">
       <h1><%=current_article.title %></h1>
+      <h3><%= current_article.date.strftime('%e %b, %Y') %></h3>
       <div id="main" role="main">
       <p><%= yield %></p>
       </div>
