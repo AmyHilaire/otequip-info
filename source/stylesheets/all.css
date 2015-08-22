@@ -22,12 +22,21 @@ h1 {
   /* padding-bottom: 0.5em; */
 }
 
-h3 {
+.date {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-size: 0.9em;
   color: #343B5E;
   margin-top: 0;
+}
+
+.caption {
+  font-size: 0.9em;
+  color: #343B5E;
+  margin-top: 0;
+  font-family: "Lato";
+  font-weight: 300;
+  font-style: italic;
 }
 
 hr {

@@ -26,10 +26,10 @@ per_page: 10
 <div class="article">
 <% page_articles.each_with_index do |article, i| %>
   <h1><%= link_to article.title, article %> </h1>
-  <h3><%= article.date.strftime('%e %b, %Y') %></h3>
+  <div class="date"><%= article.date.strftime('%e %b, %Y') %></div>
   <!-- use article.summary(250) if you have Nokogiri available to show just
        the first 250 characters -->
-  <%= article.summary(500) %> 
+  <%= article.summary(250) %> 
   <%= link_to 'Read more', article %>
   <hr />
 <% end %>
