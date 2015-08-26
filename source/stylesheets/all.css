@@ -13,7 +13,7 @@ body {
 
 
 h1 {
-  font-family: 'Bree Serif', serif;  
+  font-family: "Bree Serif",Georgia,serif;  
   color: #24288C;
   font-weight: bold;
   font-size: 32px;
@@ -23,7 +23,7 @@ h1 {
 }
 
 .date {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato",Tahoma,sans-serif;
   font-weight: 300;
   font-size: 0.9em;
   color: #343B5E;
@@ -37,6 +37,7 @@ h1 {
   font-family: "Lato";
   font-weight: 300;
   font-style: italic;
+  text-align: center;
 }
 
 hr {
@@ -46,7 +47,7 @@ hr {
 .article {
   width: 65%;
   margin: auto;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato",Tahoma,sans-serif;
   font-size: 1.5em;
   line-height: 1.8;
   color: #343B5E;
@@ -75,58 +76,20 @@ td:first-child {
   padding-left: 20px;
 }
 
-
-.header {
-  background-image: url('/images/metal-plate-header3.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 0%;
-  padding-top: 0;
-  padding-bottom: 40px;
-  min-height: 300px;
-}
-
-.header h1 {
-  font-family: 'Bree Serif', serif;
-  color: #EBEEFC;
+.footer {
   text-align: center;
-  font-size: 80px;
-  padding-top: 70px;
-  padding-bottom: 40px;
-  text-shadow: 2px 2px 15px #24288C;
-  margin: auto;
+  font-family: "Lato",Tahoma,sans-serif;
+  font-weight: 300;
+  color: #343B5E;
 }
 
-.header h2 {
-  font-family: 'Dancing Script', cursive;
-  color: #EBEEFC;
+.footer li {
+  list-style-type: none;
+  list-style-image: none;
+  display: inline;
+  padding-right: 3em;
+  padding-left: 3em;
   text-align: center;
-  font-size: 55px;
-  text-shadow: 2px 2px 15px #24288C;
-  width: 60%;
-  margin: auto;
-}
-
-.header h3 {
-  font-family: 'Bree Serif', serif;
-  color: #EBEEFC;
-  text-align: center;
-  font-size: 30px;
-  padding-top: 70px;
-  padding-bottom: 40px;
-  text-shadow: 2px 2px 15px #24288C;
-  margin: auto;
-}
-
-.slim {
-  margin: auto;
-  padding-bottom: 0;
-  min-height: 0;
-}
-
-.slim h1 {
-  padding-top: 30px;
-  padding-bottom: 30px;
 }
 
 /* unvisited link */
