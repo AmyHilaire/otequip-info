@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-  background-color: #F2F3FA;
+  background-color: #F5F6FE;
 } 
 
 
@@ -77,6 +77,8 @@ td:first-child {
 }
 
 .footer {
+  width: 60%;
+  margin: auto;
   text-align: center;
   font-family: "Lato",Tahoma,sans-serif;
   font-weight: 300;
