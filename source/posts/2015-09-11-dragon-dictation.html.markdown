@@ -7,7 +7,7 @@ category: high-tech
 Dragon Naturally Speaking, available from [Nuance](http://shop.nuance.com/store/nuanceus/Custom/pbpage.resp-dragon-home-bf-2013-digital),
 has been around a fair while, and is one of the pioneers of voice to text technology. 
 In this post, I'll share my learnings regarding Dragon Naturally Speaking Home 13.
-I've used this applicaiton more than the free Dragon iPad app because it doesn't 
+I've used this application more than the free Dragon iPad/Android app because it doesn't 
 require internet access and it has more features. I have also used Dragon Home 12.
 
 ![Using dictation with Headset](2015-09-11-dragon-dictation/plantronics-girl-1.jpg)
@@ -27,8 +27,9 @@ dictation was that it would remove the burden of spelling and physically writing
 allowing greater cognitive capacity for generating the content. Most of the trials 
 showed that dictation wasn't the solution for these users, for the following reasons:
 
-* Dictation requires a much greater cognitive capacity (at least initially) to structure
+* Dictation requires much greater cognitive capacity (at least initially) to structure
 content before saying it, and/or to develop a new work-flow.
+* It requires good verbal and written language skills
 * The equipment requires more set up than not using it
 * It has to be done in a quiet environment, so it's virtually impossible to use 
 in a classroom. Even if the classroom is quiet, the student doesn't want everyone
@@ -47,8 +48,7 @@ community, and he used it seamlessly, faster than someone using a keyboard and m
 
 Dragon Naturally Speaking is still my preferred software option at the moment.
 It is very practical for everyday school or work life. It integrates well with 
-your usual programs, such as Microsoft Office, emails and web browsers. There are
-a whole lot of up and coming competitors to watch out for.
-
-
+your usual programs, such as Microsoft Office, emails and web browsers. There 
+will be whole lot more competitors to watch out for as voice control is turning
+mainstream, with services such as Siri (Apple), Google Now, Cortana, and Hound.
 
