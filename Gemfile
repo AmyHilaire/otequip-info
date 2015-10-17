@@ -19,3 +19,8 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "builder", "~> 3.0"
 
 gem "nokogiri"
+
+gem 'middleman-dragonfly_thumbnailer', '~> 1.0.2'
+
+gem 'carrierwave'
+gem 'mini_magick', '3.8.0'

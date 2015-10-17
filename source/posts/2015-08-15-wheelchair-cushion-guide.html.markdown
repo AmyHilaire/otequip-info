@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Quick Guide to Wheelchair Cushions
+preview: /2015/08/15/wheelchair-cushion-guide/wheelchair-beach.jpg
 categories: cushions wheelchairs pressure
 ---
 
-Anyone who needs to use a wheelchair should also be using a cushion on their
-wheelchair, since they would presumably have impaired mobility, sensation, or 
-both. Without a cushion, the user would be at risk of developing a pressure injury.
+![Wheelchair with cushion](2015-08-15-wheelchair-cushion-guide/wheelchair-beach.jpg)
+<p class="caption">The right wheelchair with the right cushion can bring freedom</p>
+
+Anyone who needs to use a wheelchair long-term should also be using a cushion on their
+wheelchair, due to impaired mobility, sensation, or both. Wheelchair cushions reduce 
+the risk of developing a pressure injury and provide postural support.
 If the user doesn't have impaired mobility or sensation, a cushion will 
 at least improve the comfort of the wheelchair. The levels of pressure 
 redistribution and postural support vary a lot between different types of

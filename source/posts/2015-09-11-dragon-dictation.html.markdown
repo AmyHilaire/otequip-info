@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Dictation with Dragon Naturally Speaking
+preview: /2015/09/11/dragon-dictation/plantronics-girl-1.jpg
 category: high-tech
 ---
 
-Dragon Naturally Speaking, available from [Nuance](http://shop.nuance.com/store/nuanceus/Custom/pbpage.resp-dragon-home-bf-2013-digital),
+Dragon Naturally Speaking, available from [<u>Nuance</u>](http://shop.nuance.com/store/nuanceus/Custom/pbpage.resp-dragon-home-bf-2013-digital),
 has been around a fair while, and is one of the pioneers of voice to text technology. 
 In this post, I'll share my learnings regarding Dragon Naturally Speaking Home 13.
 I've used this application more than the free Dragon iPad/Android app because it doesn't 
