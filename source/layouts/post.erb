@@ -27,9 +27,16 @@
       <div id="main" role="main">
         <p><%= yield %></p>
       </div>
-    </div>
+    </div>    
+    
+      <div class="subfooter">  
+      <%= partial "layouts/comments" %>   
+      <div class="addthis_recommended_horizontal"></div>  
+      </div> 
+      
     <hr/>
     
+    <script id="dsq-count-scr" src="//otequipinfo.disqus.com/count.js" async></script>
      
     <%= partial "layouts/footer" %>
   </body>

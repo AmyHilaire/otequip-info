@@ -1,0 +1,80 @@
+---
+layout: post
+title: "DTVP-2 vs DTVP-3: A Worthwhile Upgrade?"
+preview: /2015/10/24/dtvp2vsdtvp3.jpg
+category: assessments
+---
+
+The *Developmental Test of Visual Perception (DTVP)* has been around a long time. It was 
+developed my Marianne Frostig and colleagues in the early 1960s, and first standardised in 1963.
+The DTVP-2 was released in 1993, and most recently, the Third Edition of the DTVP
+was published by [<u>Pro-Ed</u>](http://www.proedinc.com/customer/ProductView.aspx?ID=5697&sSearchWord=)
+in 2014 with updated norms. But has much really changed?
+
+![Examiner Record Booklets](2015-10-24-dtvp2-vs-dtvp3/dtvp2vsdtvp3.jpg)
+
+You can find the "official" list of changes on the publisher's website, so I'm 
+not going to repeat that, but instead share my experience.
+My workplace has purchased the DTVP-3 at the start of 2015. At first glance, it 
+appeared to me that the packaging had just been made more colourful, and a few 
+of the subtests removed. However, having now used it, I am thankful for the small 
+changes that have made the assessment much easier to administer.
+
+Things to like:
+
+* The Visual-Motor Speed and Position in Space subtests are gone! I used to get 
+frustrated marking these, as the marking criteria was very strict about where the 
+pencil marks were allowed to be. I felt the children were losing marks unfairly,
+as the aim of the Speed subtest is to mark as many shapes as possible, but the shape
+wouldn't count if the mark protuded outside the shape.
+
+![Removed Subtests](2015-10-24-dtvp2-vs-dtvp3/cutsubtests.jpg)
+<p class="caption">Removed Subtests: Visual-Motor Speed and Position in Space</p>
+
+* Not only has removal of three subtests (Position in Space, Spatial Relations, 
+and Visual-Motor Speed) meant shorter administration time, the change in order
+has helped test administration run more smoothly. No longer do we need to switch 
+between the response booklet and the stimulus booklet for each subtest.
+
+* The layout of the Examiner record form has become much more user-friendly. It
+now includes the standard wording for explaining the tasks, and the responses are
+much easier to instantly mark correct or incorrect by the bolding of correct responses.
+
+![Inside Examiner Record Booklets](2015-10-24-dtvp2-vs-dtvp3/examinerform.jpg)
+<p class="caption">Completely new layout of the Examiner Record Booklet</p>
+
+* The layout of the Response Booklet has been improved. There is now more space between items.
+Some of the pictures in the Eye-Hand Coordination Subtest have changed, fairly inconsequentially.
+The Copying Subtest has been reordered to better reflect the developmental progression of
+drawing skills. Scoring this subtest has also been much improved with provision of
+a Scoring Template, which includes all the necessary angles and measuring lines for accurate scoring.
+
+![Improvements to the Copying Subtest](2015-10-24-dtvp2-vs-dtvp3/copying_subtest.jpg)
+<p class="caption">Improvements to the Copying Subtest</p>
+
+* Even the Stimulus Booklet has had a facelift. It now includes the letters corresponding to
+the answers, under each figure. I've found it useful to double-check sometimes if
+the child points too quickly by saying "was that 'B' and 'F'?" There are some new items,
+and all the items now have the potential answers layed out in a single row.
+
+![Updated Stimulus Layout](2015-10-24-dtvp2-vs-dtvp3/updatedlayout.jpg)
+<p class="caption">Updated layout of Stimulus Booklet</p>
+
+* Norms are now provided up to 12 years 11 months. I find this very convenient,
+because the same assessment can be used in early primary school, and again for 
+comparison around the age of transition to high school.
+
+Things to question:
+
+* Although this assessment has been around a long time, we are yet to have international
+standardisation. The DTVP-3 boasts impressive reliability and "is shown to be unbiased 
+relative to race, gender, and handedness." Is it valid for use with Australian children?
+
+* Was the removal of the Spatial Relations subtest beneficial? Was that data useful?
+
+* We now have no component taking into account the speed of visual-motor integration tasks.
+Is speed of completion relevant in assessing proficiency? I would have thought so.
+
+Leave a comment...
+
+<br>

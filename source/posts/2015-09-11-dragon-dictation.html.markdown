@@ -11,8 +11,6 @@ In this post, I'll share my learnings regarding Dragon Naturally Speaking Home 1
 I've used this application more than the free Dragon iPad/Android app because it doesn't 
 require internet access and it has more features. I have also used Dragon Home 12.
 
-![Using dictation with Headset](2015-09-11-dragon-dictation/plantronics-girl-1.jpg)
-
 *Why use dictation?*
 
 Dictation is great for users who:
@@ -21,6 +19,8 @@ Dictation is great for users who:
 * Are unable to achieve efficient computer use due to a problem with their motor
 skills (e.g. impairment of fine motor skills, or physical fatigue)
 * Have the motivation and support to learn how to use it
+
+![Using dictation with Headset](2015-09-11-dragon-dictation/plantronics-girl-1.jpg)
 
 I have trialled dictation with a number of upper primary students and high school
 students who had trouble getting their content down on the page. The idea of trying
@@ -53,3 +53,6 @@ your usual programs, such as Microsoft Office, emails and web browsers. There
 will be whole lot more competitors to watch out for as voice control is turning
 mainstream, with services such as Siri (Apple), Google Now, Cortana, and Hound.
 
+What have been your experiences with dictation software/hardware? Leave a comment...
+
+<br>

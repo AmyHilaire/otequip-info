@@ -86,6 +86,12 @@ td:first-child {
   padding-left: 20px;
 }
 
+.subfooter {
+  text-align: center;
+  margin: auto;
+  width: 55%;
+}
+
 .footer {
   width: 60%;
   margin: auto;

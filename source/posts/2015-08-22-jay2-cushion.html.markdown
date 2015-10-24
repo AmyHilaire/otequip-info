@@ -10,9 +10,6 @@ is a tried and true pillar of the wheelchair cushion world. While the J2 isn't s
 easy customisation with modular components, and the design works well for users
 of many shapes, sizes, and postures.
 
-![Jay J2 Cushion side view](2015-08-22-jay2-cushion/jay2-side.jpg)
-<p class="caption">J2 cushion side view, 16 inches (406mm) deep by 14 inches (355mm) wide</p>
-
 The J2 range is quite comprehensive. The cushion shown is the standard J2. The 
 J2 Deep Contour is another variant, which I have found to be a great cushion if more 
 immersion is required, such as when the ischial tuberosities are particularly 
@@ -23,6 +20,9 @@ Widths: 14-24 inches (36-61cm)
 Depths: 14-20 inches (36-51cm)
 
 Height: 2.5 inches (6.5cm)
+
+![Jay J2 Cushion side view](2015-08-22-jay2-cushion/jay2-side.jpg)
+<p class="caption">J2 cushion side view, 16 inches (406mm) deep by 14 inches (355mm) wide</p>
 
 The widths and depths are customisable too. For example, I have ordered an 18-inch width
 where the well size was the same as the 15.5-inch cushion. The supplier added a 
@@ -90,7 +90,7 @@ sliding on the wheelchair seat.</p>
 The cushion cover is nice and simple. The stretchy, soft fabric seems to deal very 
 well with sweat in our warm sub-tropical climate. 
 
-The downsides to be aware of for this otherwise wonderful cushion:
+The potential downsides to be aware of:
 
 * It's pretty heavy, weighing 3-5kg. Not the heaviest around, but I wouldn't call it a light-weight cushion
 * The fluid pad occasionally bursts, so it loses some points on durability
@@ -105,6 +105,7 @@ The main benefits:
 * It comes in a wide variety of sizes and configurations for adults and teens
 * It is fairly easy to clean and maintain
 
--Amy
+How have you used the J2 cushion? Do you have any tips or stories to share? 
+Leave a comment...
 
 <br>

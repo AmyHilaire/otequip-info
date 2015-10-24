@@ -5,8 +5,6 @@ preview: /2015/08/15/wheelchair-cushion-guide/wheelchair-beach.jpg
 categories: cushions wheelchairs pressure
 ---
 
-![Wheelchair with cushion](2015-08-15-wheelchair-cushion-guide/wheelchair-beach.jpg)
-<p class="caption">The right wheelchair with the right cushion can bring freedom</p>
 
 Anyone who needs to use a wheelchair long-term should also be using a cushion on their
 wheelchair, due to impaired mobility, sensation, or both. Wheelchair cushions reduce 
@@ -57,4 +55,9 @@ occasionally. Choose a cushion that the user(s) can manage.
 The most important thing in choosing a cushion is to **try it out!** Having the user
 trial it, even for a few minutes, can save a lot of time down the track.
 
--A
+![Wheelchair with cushion](2015-08-15-wheelchair-cushion-guide/wheelchair-beach.jpg)
+<p class="caption">The right wheelchair with the right cushion can bring freedom</p>
+
+What other factors have impacted on your cushion choices? Leave a comment...
+
+<br>
