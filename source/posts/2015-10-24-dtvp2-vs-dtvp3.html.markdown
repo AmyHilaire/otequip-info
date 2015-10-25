@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DTVP-2 vs DTVP-3: A Worthwhile Upgrade?"
-preview: /2015/10/24/dtvp2vsdtvp3.jpg
+preview: /2015/10/24/dtvp2-vs-dtvp3/dtvp2vsdtvp3.jpg
 category: assessments
 ---
 
