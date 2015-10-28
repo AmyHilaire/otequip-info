@@ -21,7 +21,7 @@ Depths: 14-20 inches (36-51cm)
 
 Height: 2.5 inches (6.5cm)
 
-![Jay J2 Cushion side view](2015-08-22-jay2-cushion/jay2-side.jpg)
+![Jay J2 Cushion side view](2015/08/22/jay2-cushion/jay2-side.jpg)
 <p class="caption">J2 cushion side view, 16 inches (406mm) deep by 14 inches (355mm) wide</p>
 
 The widths and depths are customisable too. For example, I have ordered an 18-inch width
