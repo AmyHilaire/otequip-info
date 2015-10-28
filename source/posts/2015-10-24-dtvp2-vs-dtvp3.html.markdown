@@ -11,7 +11,7 @@ The DTVP-2 was released in 1993, and most recently, the Third Edition of the DTV
 was published by [<u>Pro-Ed</u>](http://www.proedinc.com/customer/ProductView.aspx?ID=5697&sSearchWord=)
 in 2014 with updated norms. But has much really changed?
 
-![Examiner Record Booklets](2015-10-24-dtvp2-vs-dtvp3/dtvp2vsdtvp3.jpg)
+![Examiner Record Booklets](2015/10/24/dtvp2-vs-dtvp3/dtvp2vsdtvp3.jpg)
 
 You can find the "official" list of changes on the publisher's website, so I'm 
 not going to repeat that, but instead share my experience.
@@ -28,7 +28,7 @@ pencil marks were allowed to be. I felt the children were losing marks unfairly,
 as the aim of the Speed subtest is to mark as many shapes as possible, but the shape
 wouldn't count if the mark protuded outside the shape.
 
-![Removed Subtests](2015-10-24-dtvp2-vs-dtvp3/cutsubtests.jpg)
+![Removed Subtests](2015/10/24/dtvp2-vs-dtvp3/cutsubtests.jpg)
 <p class="caption">Removed Subtests: Visual-Motor Speed and Position in Space</p>
 
 * Not only has removal of three subtests (Position in Space, Spatial Relations, 
@@ -40,7 +40,7 @@ between the response booklet and the stimulus booklet for each subtest.
 now includes the standard wording for explaining the tasks, and the responses are
 much easier to instantly mark correct or incorrect by the bolding of correct responses.
 
-![Inside Examiner Record Booklets](2015-10-24-dtvp2-vs-dtvp3/examinerform.jpg)
+![Inside Examiner Record Booklets](2015/10/24/dtvp2-vs-dtvp3/examinerform.jpg)
 <p class="caption">Completely new layout of the Examiner Record Booklet</p>
 
 * The layout of the Response Booklet has been improved. There is now more space between items.
@@ -49,7 +49,7 @@ The Copying Subtest has been reordered to better reflect the developmental progr
 drawing skills. Scoring this subtest has also been much improved with provision of
 a Scoring Template, which includes all the necessary angles and measuring lines for accurate scoring.
 
-![Improvements to the Copying Subtest](2015-10-24-dtvp2-vs-dtvp3/copying_subtest.jpg)
+![Improvements to the Copying Subtest](2015/10/24/dtvp2-vs-dtvp3/copying_subtest.jpg)
 <p class="caption">Improvements to the Copying Subtest</p>
 
 * Even the Stimulus Booklet has had a facelift. It now includes the letters corresponding to
@@ -57,7 +57,7 @@ the answers, under each figure. I've found it useful to double-check sometimes i
 the child points too quickly by saying "was that 'B' and 'F'?" There are some new items,
 and all the items now have the potential answers layed out in a single row.
 
-![Updated Stimulus Layout](2015-10-24-dtvp2-vs-dtvp3/updatedlayout.jpg)
+![Updated Stimulus Layout](2015/10/24/dtvp2-vs-dtvp3/updatedlayout.jpg)
 <p class="caption">Updated layout of Stimulus Booklet</p>
 
 * Norms are now provided up to 12 years 11 months. I find this very convenient,
@@ -72,9 +72,9 @@ relative to race, gender, and handedness." Is it valid for use with Australian c
 
 * Was the removal of the Spatial Relations subtest beneficial? Was that data useful?
 
-* We now have no component taking into account the speed of visual-motor integration tasks.
+* Now there is no component taking into account the speed of visual-motor integration tasks.
 Is speed of completion relevant in assessing proficiency? I would have thought so.
 
-Leave a comment...
+Please share your thoughts. Comment below...
 
 <br>

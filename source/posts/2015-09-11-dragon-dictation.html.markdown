@@ -20,7 +20,7 @@ Dictation is great for users who:
 skills (e.g. impairment of fine motor skills, or physical fatigue)
 * Have the motivation and support to learn how to use it
 
-![Using dictation with Headset](2015-09-11-dragon-dictation/plantronics-girl-1.jpg)
+![Using dictation with Headset](2015/09/11/dragon-dictation/plantronics-girl-1.jpg)
 
 I have trialled dictation with a number of upper primary students and high school
 students who had trouble getting their content down on the page. The idea of trying
@@ -45,7 +45,7 @@ the option. I have seen Dragon Naturally Speaking used very effectively by a you
 man with no use of his arms. It was his only option to connect with his web-based 
 community, and he used it seamlessly, faster than someone using a keyboard and mouse.
 
-![Dragon Naturally Speaking](2015-09-11-dragon-dictation/dns-home-lg-banner.png)
+![Dragon Naturally Speaking](2015/09/11/dragon-dictation/dns-home-lg-banner.png)
 
 Dragon Naturally Speaking is still my preferred software option at the moment.
 It is very practical for everyday school or work life. It integrates well with 

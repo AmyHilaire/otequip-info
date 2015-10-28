@@ -32,7 +32,7 @@ Sunrise will replace it free of charge.
 
 <br>
 
-![Jay J2 Cushion Components](2015-08-22-jay2-cushion/jay2-components.jpg)
+![Jay J2 Cushion Components](2015/08/22/jay2-cushion/jay2-components.jpg)
 <p class="caption">What's in the Box: Base, fluid tripad, and cover 
 are essential components. The fluid supplement pad and adductor wedges are examples 
 of the many modular components available to assist with postural management.</p>
@@ -51,7 +51,7 @@ cushion, I've got a reminder of what went where!
 
 <br>
 
-![Jay J2 Base Measurements](2015-08-22-jay2-cushion/jay2-base.jpg)
+![Jay J2 Base Measurements](2015/08/22/jay2-cushion/jay2-base.jpg)
 <p class="caption">The base has a large, deep well at the rear, allowing the user's bony prominences
 (ischial tuberosities, sacrum and coccyx) to sink into the fluid. The lack of a 
 firm back wall on the base removes all rub points for the sacrum.</p>
@@ -82,7 +82,7 @@ configure in a million different ways.
 
 <br>
 
-![Jay J2 Cover and Underside](2015-08-22-jay2-cushion/jay2-underside.jpg)
+![Jay J2 Cover and Underside](2015/08/22/jay2-cushion/jay2-underside.jpg)
 <p class="caption">The standard stretch cover is quick and easy to put on and remove. It is elasticated like
 a fitted bedsheet. Velcro on the underside of the base and cover stops the cushion
 sliding on the wheelchair seat.</p>
