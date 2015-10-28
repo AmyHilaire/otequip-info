@@ -37,9 +37,16 @@ IMG {
   margin-right: auto }
 
 .preview {
-  float: left;
-  padding-right: 1em;
+ /* float: left; 
+  padding-right: 1em; */
+  padding: 1em;
+  display: table-cell;
 }
+
+.summary {
+  display: table-cell;
+}
+
 .caption {
   font-size: 0.9em;
   color: #343B5E;

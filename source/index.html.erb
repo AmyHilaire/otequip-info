@@ -30,16 +30,17 @@ per_page: 10
   <div class="date"><%= article.date.strftime('%e %b, %Y') %></div>
   <!-- use article.summary(250) if you have Nokogiri available to show just
        the first 250 characters -->
-  <!-- %= thumb_tag '/posts/2015-09-11-dragon-dictation/plantronics-girl-1.jpg', '150x150#', class: 'thumbnail' %> -->
+       
+  <div class="summary">
+    <% if article.data.preview %>
+      <img class="preview" src="<%=article.data.preview %>" alt="Preview" style="width:600px;">
+    <% end %>
   
-  <% if article.data.preview %>
-    <img class="preview" src="<%=article.data.preview %>" alt="Preview" style="width:400px;">
+    <%= article.summary(300) %> 
+    <%= link_to 'Read more', article %>
+    <hr />
   <% end %>
-  
-  <%= article.summary(350) %> 
-  <%= link_to 'Read more', article %>
-  <hr />
-<% end %>
+  </div>
 </div>
 
 <div>
