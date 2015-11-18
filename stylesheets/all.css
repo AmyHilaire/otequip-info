@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+/* This is a note */
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #F5F6FE;
+} 
+
+
+h1 {
+  font-family: "Bree Serif",Georgia,serif;  
+  color: #24288C;
+  font-weight: bold;
+  font-size: 32px;
+  margin: 0px;
+  padding-top: 1em;
+  /* padding-bottom: 0.5em; */
+}
+
+.date {
+  font-family: "Lato",Tahoma,sans-serif;
+  font-weight: 300;
+  font-size: 0.9em;
+  color: #343B5E;
+  margin-top: 0;
+  padding-bottom: 1em;
+}
+
+IMG {
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+
+.preview {
+ /* float: left; 
+  padding-right: 1em; */
+  padding: 1em;
+  display: table-cell;
+}
+
+.summary {
+  display: table-cell;
+}
+
+.caption {
+  font-size: 0.9em;
+  color: #343B5E;
+  margin-top: 0;
+  font-family: "Lato";
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+}
+
+hr {
+  color: #E4E4F0;
+}
+
+.article {
+  width: 65%;
+  margin: auto;
+  font-family: "Lato",Tahoma,sans-serif;
+  font-size: 1.5em;
+  line-height: 1.8;
+  color: #343B5E;
+  margin-top: 0px;
+}
+
+table, th, td {
+  font-size: 0.9em;
+  border: 3px solid #E4E4F0;
+  border-collapse: collapse;
+  text-align: center;
+  width: 100%;
+  table-layout: fixed;
+}
+
+td, th {
+  padding: 5px;
+}
+
+th {
+  background-color: #E4E4F0;
+}
+
+td:first-child {
+  background-color: #E4E4F0;
+  padding-left: 20px;
+}
+
+.subfooter {
+  text-align: center;
+  margin: auto;
+  width: 55%;
+}
+
+.footer {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  font-family: "Lato",Tahoma,sans-serif;
+  font-weight: 300;
+  color: #343B5E;
+}
+
+.footer li {
+  list-style-type: none;
+  list-style-image: none;
+  display: inline;
+  padding-right: 3em;
+  padding-left: 3em;
+  text-align: center;
+}
+
+/* unvisited link */
+a:link {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: inherit;
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
