@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EquaGel Cushion Review
-preview: 2015/11/11/equagel/equagel1.jpg
+preview: 2015/11/11/equagel-cushion/equagel1.jpg
 category: cushions
 ---
 
@@ -20,7 +20,7 @@ of hard car keys jabbing my gluteus maximus. However, I took Bob up on his chall
 and gently lowered myself into the seat. I was pleasantly surprised. The keys *were not* 
 uncomfortable to sit on; I couldn't even locate them!
 
-![EquaGel General Cushion  from front](2015/11/11/equagel/equagel1.jpg)
+![EquaGel General Cushion from front](2015/11/11/equagel-cushion/equagel1.jpg)
 <p class="caption">Equagel General cushion in 16x16in (40x40cm)</p>
 
 Bob went on to explain that the cushion is made from a patented polymer gel. 
@@ -33,10 +33,10 @@ the weight to be shared across to adjacent columns, and the user to sink into th
 the elastic quality of the gel is always wanting to help the columns reform to
 their propper shape, which provides an upwards force, preventing bottoming out.
 
-![Column grid on the top layer of the cushion](2015/11/11/equagel/equagel2.jpg)
+![Column grid on the top layer of the cushion](2015/11/11/equagel-cushion/equagel2.jpg)
 <p class="caption">View from top, grid of 1cm columns</p>
 
-![Column grid of the bottom layer](2015/11/11/equagel/equagel5.jpg)
+![Column grid of the bottom layer](2015/11/11/equagel-cushion/equagel5.jpg)
 <p class="caption">View of underside, grid of 2.5cm columns. The columns underneath have more 
 robust walls, lending structural stability to the easily conforming top layer columns.</p>
 
@@ -48,7 +48,7 @@ Overall, I've rated the EquaGel general cushion as providing moderate pressure r
 qualities, and moderate postural support due to the well and the amount of immersion.
 See how it compares to other in the OT Equipment Info [<u>Quick Guide to Wheelchair Cushions</u>](http://otequip.info/2015/08/15/wheelchair-cushion-guide.html).
 
-![The well is 1.7cm lower than the rest of the cushion](2015/11/11/equagel/equagel3.jpg)
+![The well is 1.7cm lower than the rest of the cushion](2015/11/11/equagel-cushion/equagel3.jpg)
 <p class="caption">The two layers thin at the back to create a well. General cushion height: 
 5.1cm, Well height: 3.4cm.</p>
 
@@ -58,7 +58,7 @@ put on correctly), a zip and a handle on the back, and Velcro on the base to kee
 it in place. The outer fabric is soft and stretchy. The inside top of the cover 
 has a course-weave cotton lining.
 
-![Equagel cushion cover design features](2015/11/11/equagel/equagel4.jpg)
+![Equagel cushion cover design features](2015/11/11/equagel-cushion/equagel4.jpg)
 
 So far I've used this cushion much more *without* the cover. Uncovered, the 
 cushion lends itself nicely to use in the shower. The open column design means that 
