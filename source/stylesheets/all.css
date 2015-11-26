@@ -35,6 +35,13 @@ IMG {
   display: block;
   margin-left: auto;
   margin-right: auto }
+  
+.youtube {
+  display: table-cell;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+}
 
 .preview {
  /* float: left; 
@@ -62,6 +69,7 @@ hr {
 }
 
 .article {
+  display: block;
   width: 65%;
   margin: auto;
   font-family: "Lato",Tahoma,sans-serif;
