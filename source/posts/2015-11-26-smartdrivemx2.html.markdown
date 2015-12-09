@@ -19,8 +19,9 @@ shows the SmartDrive MX2 in action:
 <iframe class="youtube" src="https://www.youtube.com/embed/8uIXemVXlD4?rel=0" width="853" height="480" frameborder="0" allowfullscreen></iframe>
 
 The info I'm providing here has come from a demo session with a supplier, the SmartDrive MX2 User Manual,
-internet research, and stories from therapists who have used the product with some of their
-clients, with varying outcomes.  If you have more or different information, please share it by commenting below.
+internet research, and stories from SBH Queensland therapists (Elizabeth Steele and Angela Tincknell) 
+who have used the product with some clients, with varying outcomes.  
+If you have more or different information, please share it by commenting below.
 
 **Some specifications:**
 
@@ -101,11 +102,16 @@ When outdoors or needing more power, press and hold the button for 5 seconds, un
 the light turns blue. Now, when the user pushes the wheels, the SmartDrive will maintain the top speed reached. 
 The user should let the SmartDrive do all the propelling, but still keep their hands on the push rims for steering. 
 
-To stop, tap the wrist on the push rims. The SmartDrive will turn off, allowing the user to brake as they normally would, 
+In indoor (green) mode, you can stop the SmartDrive by holding the wheels 
+or rims, as per normal manual wheelchair use. **This will not work in 
+outdoor mode.** To stop in outdoor (blue) mode, tap the wrist on the push rims. 
+The SmartDrive will turn off, allowing the user to brake as they normally would, 
 by holding the push rims. The wristband LED will be red. 
+
 When the user pushes the wheels again, the SmartDrive will re-engage and return to blue mode. 
 This can cause issues in some situations, such as negotiating an obstacle. 
-In this case, once stopped, press the button and hold until the wristband is off. Turn it on again once after passing the obstacle.
+In this case, once stopped, press the button and hold until the wristband is off. 
+Turn it on again once after passing the obstacle.
 
 ![Wristband button and LED](2015/11/26/smartdrivemx2/smartdrivemx2-3.jpg)
 <p class="caption">The button requires firm pressure</p>
@@ -126,8 +132,10 @@ to the next level.
 <p class="caption">Image from Max Mobility website</p>
 
 I haven't prescribed a SmartDrive MX2 yet, but when I do, I will be sure to have at least 1-2hrs 
-of client use before prescribing, at least 1 hour set aside for training once they've got it, and a week or two of using in very low-risk environments before
-taking into the community. The extent of training required might be a drawback for some therapists (unless the supplier is willing and able to provide adequate training)
+of client use before prescribing, at least 1 hour set aside for training once they've got it, 
+and a week or two of using in very low-risk environments before
+taking it into the community. The extent of training required might be a drawback 
+for some therapists (unless the supplier is willing and able to provide adequate training)
 and the safety aspects may make this product unsuitable for users with slow processing or response times.
 
 Do you have any further thoughts or questions about the SmartDrive MX2? 
