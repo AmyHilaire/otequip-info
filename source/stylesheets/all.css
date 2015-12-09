@@ -34,8 +34,19 @@ h1 {
 IMG {
   display: block;
   margin-left: auto;
-  margin-right: auto }
+  margin-right: auto;
+  max-width: 100%;
+}
   
+.profile {
+  float: left; 
+  padding-right: 1em;
+  padding-left: 0;
+  padding-top: 1em;
+  padding-bottom: 0;
+  display: table-cell;
+}
+
 .youtube {
   display: table-cell;
   margin: auto;

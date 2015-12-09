@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to OT Equipment Info
+preview: /2015/08/12/welcome/Blocks.jpg
 category: other
 ---
 
