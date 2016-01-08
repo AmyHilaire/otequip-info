@@ -6,7 +6,7 @@ category: assessments
 ---
 
 The *Developmental Test of Visual Perception (DTVP)* has been around a long time. It was 
-developed my Marianne Frostig and colleagues in the early 1960s, and first standardised in 1963.
+developed by Marianne Frostig and colleagues in the early 1960s, and first standardised in 1963.
 The DTVP-2 was released in 1993, and most recently, the Third Edition of the DTVP
 was published by [<u>Pro-Ed</u>](http://www.proedinc.com/customer/ProductView.aspx?ID=5697&sSearchWord=)
 in 2014 with updated norms. But has much really changed?
@@ -29,7 +29,7 @@ as the aim of the Speed subtest is to mark as many shapes as possible, but the s
 wouldn't count if the mark protuded outside the shape.
 
 ![Removed Subtests](2015/10/24/dtvp2-vs-dtvp3/cutsubtests.jpg)
-<p class="caption">Removed Subtests: Visual-Motor Speed and Position in Space</p>
+<p class="caption">Removed Subtests: Visual-Motor Speed and Spatial Relations</p>
 
 * Not only has removal of three subtests (Position in Space, Spatial Relations, 
 and Visual-Motor Speed) meant shorter administration time, the change in order
@@ -60,6 +60,16 @@ and all the items now have the potential answers layed out in a single row.
 ![Updated Stimulus Layout](2015/10/24/dtvp2-vs-dtvp3/updatedlayout.jpg)
 <p class="caption">Updated layout of Stimulus Booklet</p>
 
+* The Visual Closue subtest has been re-graded to include more simpler items at the
+early stages, with more difficult items moved toward the back. As shown in the example
+below, the layout has been improved. This item has been moved from fourth place to
+sixth, with easier items inserted beforehand, to more closely follow the developmental
+progression (i.e. more horizontal and vertical lines before diagonals). The subtest has been
+expanded from 20 items to 26.
+
+![Comparison of Visual Closure items](2015/10/24/dtvp2-vs-dtvp3/itemcomparison.jpg)
+<p class="caption">Comparison of Visual Closure Subtest Items</p>
+
 * Norms are now provided up to 12 years 11 months. I find this very convenient,
 because the same assessment can be used in early primary school, and again for 
 comparison around the age of transition to high school.
@@ -76,5 +86,7 @@ relative to race, gender, and handedness." Is it valid for use with Australian c
 Is speed of completion relevant in assessing proficiency? I would have thought so.
 
 Please share your thoughts. Comment below...
+
+<p class="caption">*Post updated 8th Jan 2016</p>
 
 <br>
