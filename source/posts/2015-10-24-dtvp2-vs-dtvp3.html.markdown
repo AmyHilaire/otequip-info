@@ -22,11 +22,11 @@ changes that have made the assessment much easier to administer.
 
 Things to like:
 
-* The Visual-Motor Speed and Position in Space subtests are gone! I used to get 
+* The Visual-Motor Speed and Spacial Relations subtests are gone! I used to get 
 frustrated marking these, as the marking criteria was very strict about where the 
 pencil marks were allowed to be. I felt the children were losing marks unfairly,
-as the aim of the Speed subtest is to mark as many shapes as possible, but the shape
-wouldn't count if the mark protuded outside the shape.
+as the aim of the Speed subtest is to mark as many correct shapes as possible, but 
+an otherwise correct answer wouldn't count if the mark protuded outside the shape.
 
 ![Removed Subtests](2015/10/24/dtvp2-vs-dtvp3/cutsubtests.jpg)
 <p class="caption">Removed Subtests: Visual-Motor Speed and Spatial Relations</p>

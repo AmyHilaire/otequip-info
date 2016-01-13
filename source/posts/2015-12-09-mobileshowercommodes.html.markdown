@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick Guide to Mobile Shower Commodes
-preview: 2015/12/09/mobileshowercommodes/mobileshowercommodes1.jpg
+preview: /2015/12/09/mobileshowercommodes/mobileshowercommodes1.jpg
 category: bathroom guide mobile-shower-commode
 ---
 

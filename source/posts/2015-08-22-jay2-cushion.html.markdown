@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jay J2 Cushion Review
-preview: 2015/08/22/jay2-cushion/jay2-components.jpg
-category: cushions
+preview: /2015/08/22/jay2-cushion/jay2-components.jpg
+category: cushions review
 ---
 
 The Jay cushion range, available from [<u>Sunrise Medical</u>](http://www.sunrisemedical.com.au/products/jay/wheelchair-cushions/jay-j2.aspx),

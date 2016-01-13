@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SmartDrive MX2 Review
-preview: 2015/11/26/smartdrivemx2/SmartDriveMX2.jpg
-category: wheelchair power-assist
+preview: /2015/11/26/smartdrivemx2/SmartDriveMX2.jpg
+category: wheelchair power-assist review
 ---
 
 The SmartDrive is a power-assist device that attaches to a manual wheelchair. 

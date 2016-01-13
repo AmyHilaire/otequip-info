@@ -1,8 +1,8 @@
 ---
 layout: post
 title: EquaGel Cushion Review
-preview: 2015/11/11/equagel-cushion/equagel1.jpg
-category: cushions
+preview: /2015/11/11/equagel-cushion/equagel1.jpg
+category: cushions review
 ---
 
 The [<u>EquaGel cushion</u>](https://equapressure.com/Cushions.html) is a relative 

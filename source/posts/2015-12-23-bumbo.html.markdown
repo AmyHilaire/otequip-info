@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bumbo Baby Seat Review
-preview: 2015/12/23/bumbo/Bumbo1.jpg
+preview: /2015/12/23/bumbo/Bumbo1.jpg
 category: baby postural-support review
 ---
 

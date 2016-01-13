@@ -2,7 +2,7 @@
 layout: post
 title: Dictation with Dragon Naturally Speaking
 preview: /2015/09/11/dragon-dictation/plantronics-girl-1.jpg
-category: high-tech
+category: high-tech review
 ---
 
 Dragon Naturally Speaking, available from [<u>Nuance</u>](http://shop.nuance.com/store/nuanceus/Custom/pbpage.resp-dragon-home-bf-2013-digital),
