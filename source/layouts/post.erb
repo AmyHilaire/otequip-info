@@ -21,12 +21,16 @@
       </h3>
     </div>
 
-    <div class="article">
-      <h1><%=current_article.title %></h1>
-      <div class="date"><%= current_article.date.strftime('%e %b, %Y') %></div>
-      <div id="main" role="main">
-        <p><%= yield %></p>
+    <div class="container">
+      <div class="article">
+        <h1><%=current_article.title %></h1>
+        <div class="date"><%= current_article.date.strftime('%e %b, %Y') %></div>
+        <div id="main" role="main">
+          <p><%= yield %></p>
+        </div>
       </div>
+      
+      <%= partial "layouts/sidebar" %>
     </div>    
     
       <div class="subfooter">  
