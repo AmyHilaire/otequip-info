@@ -27,6 +27,15 @@ h1 {
   /* padding-bottom: 0.5em; */
 }
 
+h2 {
+  font-family: "Bree Serif",Georgia,serif;  
+  color: #24288C;
+  font-size: 28px;
+  margin: 0px;
+  padding-top: 1em;
+  /* padding-bottom: 0.5em; */
+}
+
 .date {
   font-family: "Lato",Tahoma,sans-serif;
   font-weight: 300;
@@ -71,7 +80,7 @@ IMG {
 }
 
 .caption {
-  font-size: 0.9em;
+  font-size: 1em;
   color: #343B5E;
   margin-top: 0;
   font-family: "Lato";
@@ -118,11 +127,13 @@ td:first-child {
 }
 
 .sidebar {
-  width: 25%;
+  width: 20%;
   border-left: 2em;
-  background-color: white;
+  background-color: #F5F6FE;
   float: right;
   margin: auto;
+  text-align: center;
+  padding: 1em;
 }
 
 .subfooter {
