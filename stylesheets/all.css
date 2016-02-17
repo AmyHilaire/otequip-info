@@ -11,12 +11,26 @@ body {
   background-color: #F5F6FE;
 } 
 
+.container {
+  width: 80%;
+  margin: auto;
+}
+
 
 h1 {
   font-family: "Bree Serif",Georgia,serif;  
   color: #24288C;
   font-weight: bold;
   font-size: 32px;
+  margin: 0px;
+  padding-top: 1em;
+  /* padding-bottom: 0.5em; */
+}
+
+h2 {
+  font-family: "Bree Serif",Georgia,serif;  
+  color: #24288C;
+  font-size: 28px;
   margin: 0px;
   padding-top: 1em;
   /* padding-bottom: 0.5em; */
@@ -66,7 +80,7 @@ IMG {
 }
 
 .caption {
-  font-size: 0.9em;
+  font-size: 1em;
   color: #343B5E;
   margin-top: 0;
   font-family: "Lato";
@@ -81,13 +95,13 @@ hr {
 
 .article {
   display: block;
-  width: 65%;
-  margin: auto;
+  width: 75%;
   font-family: "Lato",Tahoma,sans-serif;
   font-size: 1.5em;
   line-height: 1.8;
   color: #343B5E;
   margin-top: 0px;
+  float: left;
 }
 
 table, th, td {
@@ -110,6 +124,16 @@ th {
 td:first-child {
   background-color: #E4E4F0;
   padding-left: 20px;
+}
+
+.sidebar {
+  width: 20%;
+  border-left: 2em;
+  background-color: #F5F6FE;
+  float: right;
+  margin: auto;
+  text-align: center;
+  padding: 1em;
 }
 
 .subfooter {
