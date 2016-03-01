@@ -34,7 +34,7 @@ Only one clamp/bracket is supplied with the SmartDrive, so a choice must be made
 <p class="caption">The folding-frame brackets cost about $300 as an upcharge, or more if purchased retrospectively.</p>
 
 
-* _Distance:_ Range of up to 20km (12 miles) per charge on fairly flat, easy terraine. Uphill uses more battery power. 
+* _Distance:_ Range of up to 20km (12 miles) per charge on fairly flat, easy terrain. Uphill uses more battery power. 
 The wrist band should last about 10hrs per charge, and can be turned off when not in use to help it last longer.
 
 * _Weight rating:_ 14-150kg (30-331lb) user weight. No comment is made in the manual about whether this includes the
@@ -49,15 +49,15 @@ cable for approximately 3hrs for a full charge. There are
 LEDs on the charge box that indicate power/charging/fully charged. When the drive unit is on, 4 blue lights means fully charged. 
 
 ![Top view of SmartDriveMX2](2015/11/26/smartdrivemx2/smartdrivemx2-2.jpg)
-<p class="caption">Power button, charing port and LED configuration</p>
+<p class="caption">Power button, charging port and LED configuration</p>
 
 * _Charging the Wristband:_ When the wristband is in use, a low battery is indicated by the light flashing blue then red every 1.5sec. 
-The wristband is chaged by USB, so can be plugged into a computer, car charger, or mains power outlet.
+The wristband is charged by USB, so can be plugged into a computer, car charger, or mains power outlet.
 A full charge takes approximately 2.5hrs.
 
 * _Wristband Details:_ The wristband is made from a flexible material, which feels like silicone or a similar polymer. 
 The band is fairly easy to don. It involved opening the band, sliding hand through,
-squeezing with other hand to slide the two sides of the band across eachother, then pushing the stopper through one of the slots.
+squeezing with other hand to slide the two sides of the band across each other, then pushing the stopper through one of the slots.
 
 ![Wristband at full open setting](2015/11/26/smartdrivemx2/smartdrivemx2-4.jpg)
 <p class="caption">Wristband on maximum open setting</p>
@@ -70,7 +70,7 @@ A certificate can be downloaded from the Max Mobility website to show your airli
 
 * _Weather and Terrain:_ The SmartDrive is mainly intended for indoor and light outdoor use, e.g. shopping in town, 
 getting around school/university/workplace, going for a walk down the street, etc. It isn't an "all terrain" option. 
-The User Manual outlines conditions to avoid, such as icy surfaces, loose surface (sand, gravel etc), or standing water 
+The User Manual outlines conditions to avoid, such as icy surfaces, loose surface (sand, gravel etc.), or standing water 
 (puddles or pools). The rep we spoke to advised that small puddles after light rain would probably be OK.
 This option wouldn't be suitable for hiking through the bush, using on the farm, or getting down to the beach. It might 
 be OK on grass when used in combination with something like the Freewheel.
@@ -125,7 +125,7 @@ The SmartDrive MX2 may suit users who:
 For any user, good training is particularly important. The SmartDrive MX2 isn't a product that can be picked up and used fully from the start.
 As there is an extra step required to stop, practice is required before using the SmartDrive MX2 into the community. Conveniently,
 a training guide is provided in the back of the User Manual. This is a good start. Clients of therapists I have spoken with have had minor accidents
-using this equipment, even once they were familiar with it. For those who do learn to use it successfully, the SmartDrive can take the user's active lifestlye
+using this equipment, even once they were familiar with it. For those who do learn to use it successfully, the SmartDrive can take the user's active lifestyle
 to the next level.
 
 ![SmartDrive propelling uphill](2015/11/26/smartdrivemx2/SmartDriveMX2.jpg)

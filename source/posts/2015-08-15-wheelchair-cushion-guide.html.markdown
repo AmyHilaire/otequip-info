@@ -40,7 +40,7 @@ customise to suit the users needs. For someone who tends to sacral sit (C-curve 
 the back), a wedge under almost any cushion to bring their knees up relative to
 their hips is worth a try.
 
-Other factors to consider when choosing a cushion include:
+**Other factors to consider when choosing a cushion include:**
 
 * Incontinence: look for a waterproof, easy to clean cover; make sure you get a
 spare cover, or consider a cushion design that's very easy to clean, such as the

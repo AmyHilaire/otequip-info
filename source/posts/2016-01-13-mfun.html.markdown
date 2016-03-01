@@ -8,7 +8,7 @@ category: assessments review
 The Miller Function and Participation Scales (M-FUN-PS) is a standardised developmental 
 assessment for children aged 2 years and 6 months, to 7 years and 11 months. It
 covers three motor domains: visual motor (VM), fine motor (FM), and gross motor (GM),
-as well as participation. The M-FUN-PS was authored by Dr. Lucy Miller, a very 
+as well as participation. The M-FUN-PS was authored by Dr Lucy Miller, a very 
 experienced occupational therapist and researcher. 
 Dr Miller has done a lot of work in the area of sensory processing disorder (SPD),
 and has founded the SPD Foundation, the STAR Centre for SPD treatment, and the SPD
@@ -71,7 +71,7 @@ of the child's workbook and cut out the two origami templates. You also have
 your own origami templates, to use as a demo. 
 
 *You have on hand:* the administration directions, the examiner record form, 
-two terri-towling washcloths, your demo origami templates, the child's origami templates, and a stopwatch.
+two terry towelling washcloths, your demo origami templates, the child's origami templates, and a stopwatch.
 
 ![Origami Demo](/2016/01/13/mfun/item-origamidemo.jpg)
 <p class="caption">Origami items for 4-7 year olds.</p>
@@ -93,7 +93,7 @@ scoring to complete:
 Once you've finished all items in the 25 page Examiner Form (below), you can score it all up
 and get standardised scores for each of the three "Performance" domains, and use the examiner form and the
 manual to decide whether the child is performing at an age-appropriate level, or 
-whether the child's development of certain skills is is delayed.
+whether the child's skill development is delayed.
 
 ![M-FUN examiner form upper age group](/2016/01/13/mfun/examinerform.jpg)
 <p class="caption">Examiner Form for the upper age group</p>
@@ -115,7 +115,7 @@ experiences in using it.
 * It gives you LOTS of information about the child's physical development and function.
 The Neurological Foundations profile allows the examiner to perform deeper analysis of
 the child's function, which can be particularly helpful for intervention planning.
-* It is more holistic than other, similar assessments that concentrate soley on development.
+* It is more holistic than other, similar assessments that concentrate solely on clinical acquisition of motor abilities.
 The scores on the observations checklist can provide an indication as to how poor motor performance
 affects their participation in the home and class settings. Again, this is very helpful for intervention planning.
 * The parts can be used separate from the whole assessment. For example, I can still
@@ -129,7 +129,7 @@ a length of time (45min), and following instructions.
 **Things I Find Difficult:**
 
 * While theoretically, this assessment can be done in a variety of settings (clinic,
-home, school, etc), this isn't always easy. I have found the gross motor section difficult,
+home, school, etc.), this isn't always easy. I have found the gross motor section difficult,
 as it requires prior set-up of measured lines and markers, and it requires a smooth wall
 with a concrete floor against which a ball can be kicked for "Soccer". I've been unable to locate an
 appropriate wall at several locations (homes and schools).
@@ -138,7 +138,7 @@ domain cannot be calculated. Therefore, if the only suitable wall becomes unavai
 Soccer game, a standardised GM score can't be obtained even for the upper body items, and
 the time you've spent on the rest of the GM section becomes much less useful.
 * To administer this assessment, you have to be very organised. As you may have noticed in the
-Origami example above, there are many different resources to juggle, and the eximiner's
+Origami example above, there are many different resources to juggle, and the examiner's
 attention is constantly split between observing the child, checking the administration directions,
 scoring ("how many fold is that? OK, four folds, but 2 weren't accurate, and maybe
 that beautiful final fold was after the time limit... how do I score that??"),
@@ -165,7 +165,7 @@ It's so much easier with two sets of eyes!
 * Keep your M-FUN kit ready to go, stocked with everything you need, and make a short
 list somewhere (I wrote it in the front of the administration directions book) of the
 things you need to gather for each assessment (i.e. fresh crackers, water and napkins for the
-Snack Time item, cut out origami templates, etc).
+Snack Time item, cut out origami templates, etc.).
 * If the child wants to take their handiwork with them, make sure you take a photo of it
 so you can double-check your scoring if you need to. If possible, video the assessment (or parts)
 so you can check things afterwards, particularly the first few times you administer it.

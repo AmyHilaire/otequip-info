@@ -26,7 +26,9 @@ I have trialled dictation with a number of upper primary students and high schoo
 students who had trouble getting their content down on the page. The idea of trying
 dictation was that it would remove the burden of spelling and physically writing the words,
 allowing greater cognitive capacity for generating the content. Most of the trials 
-showed that dictation wasn't the solution for these users, for the following reasons:
+showed that dictation wasn't the solution for these users.
+
+**Dictation isn't always the best solution:**
 
 * Dictation requires much greater cognitive capacity (at least initially) to structure
 content before saying it, and/or to develop a new work-flow.

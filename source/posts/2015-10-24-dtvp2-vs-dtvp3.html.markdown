@@ -22,11 +22,11 @@ changes that have made the assessment much easier to administer.
 
 Things to like:
 
-* The Visual-Motor Speed and Spacial Relations subtests are gone! I used to get 
+* The Visual-Motor Speed and Spatial Relations subtests are gone! I used to get 
 frustrated marking these, as the marking criteria was very strict about where the 
 pencil marks were allowed to be. I felt the children were losing marks unfairly,
 as the aim of the Speed subtest is to mark as many correct shapes as possible, but 
-an otherwise correct answer wouldn't count if the mark protuded outside the shape.
+an otherwise correct answer wouldn't count if the mark protruded outside the shape.
 
 ![Removed Subtests](2015/10/24/dtvp2-vs-dtvp3/cutsubtests.jpg)
 <p class="caption">Removed Subtests: Visual-Motor Speed and Spatial Relations</p>
@@ -55,12 +55,12 @@ a Scoring Template, which includes all the necessary angles and measuring lines 
 * Even the Stimulus Booklet has had a facelift. It now includes the letters corresponding to
 the answers, under each figure. I've found it useful to double-check sometimes if
 the child points too quickly by saying "was that 'B' and 'F'?" There are some new items,
-and all the items now have the potential answers layed out in a single row.
+and all the items now have the potential answers laid out in a single row.
 
 ![Updated Stimulus Layout](2015/10/24/dtvp2-vs-dtvp3/updatedlayout.jpg)
 <p class="caption">Updated layout of Stimulus Booklet</p>
 
-* The Visual Closue subtest has been re-graded to include more simpler items at the
+* The Visual Closure subtest has been re-graded to include more simpler items at the
 early stages, with more difficult items moved toward the back. As shown in the example
 below, the layout has been improved. This item has been moved from fourth place to
 sixth, with easier items inserted beforehand, to more closely follow the developmental

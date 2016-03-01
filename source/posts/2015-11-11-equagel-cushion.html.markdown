@@ -31,7 +31,7 @@ this in detail, but basically the cushion has two layers, the top has a grid of
 certain amount of pressure is applied to a column from the top, it collapses, allowing
 the weight to be shared across to adjacent columns, and the user to sink into the cushion. However,
 the elastic quality of the gel is always wanting to help the columns reform to
-their propper shape, which provides an upwards force, preventing bottoming out.
+their proper shape, which provides an upwards force, preventing bottoming out.
 
 ![Column grid on the top layer of the cushion](2015/11/11/equagel-cushion/equagel2.jpg)
 <p class="caption">View from top, grid of 1cm columns</p>
@@ -72,7 +72,7 @@ shower chair. The weight and slight stickiness of the gel has meant it stays in
 place on the commode seat without adhesives, though it needs to be well positioned
 before the user sits on it, as it can tend to stretch or move out of shape.
 
-Things I like about the EquaGel cushion: 
+**Things I like about the EquaGel cushion:** 
 
 * The design is innovative, very clever, and effective for moderate pressure redistribution.
 * It is versatile: it can be used on a regular chair/wheelchair, and in the shower or other wet areas (allowing adequate drying time in the shade to prevent it becoming mouldy).
@@ -80,7 +80,7 @@ Things I like about the EquaGel cushion:
 however it wouldn't protect the wheelchair.
 * It is good value, priced similar to a high quality foam cushion, but I suspect it is more durable than foam.
 
-Possible drawbacks for the EquaGel cushion:
+**Possible drawbacks for the EquaGel cushion:**
 
 * It is rather heavy, which is a common issue for gel cushions.
 * Its ability to easily conform can make handling difficult (it's very floppy). This can make it difficult to get the cover on and off.

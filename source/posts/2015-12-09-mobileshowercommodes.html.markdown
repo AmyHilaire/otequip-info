@@ -94,7 +94,7 @@ shower commode may need to be adjusted to be closer to the height of the other s
 shower commode seats in the past because the user was transferring from a wheelchair, which was much lower.
 This can be a dangerous game though! If you lower it too much the shower commode won't fit over the toilet!
 Check your measurements carefully and allow **at least** an inch (25mm) clearance. For user who are side transferring,
-the location and style of the brakes need to be checked so they are accessible and not interferring with the transfer.
+the location and style of the brakes need to be checked so they are accessible and not interfering with the transfer.
 Swing-away arm rests are usually required.
 
 * _Hoist transfer:_ If the user is hoisted or lifted into the mobile shower commode, tilt in space may be required. 
@@ -141,7 +141,7 @@ be required for good positioning. Rear or side opening may be required depending
 the user's bowel management routine.
 
 * _Size of Aperture:_ The default aperture sizes vary according to the manufacturer,
-and the size of seat chosen (paedatric/junior/adult). A smaller aperture may be required 
+and the size of seat chosen (paediatric/junior/adult). A smaller aperture may be required 
 for users who have wasting of their gluts (resulting in bony bottoms), as they may tend to sink too far down through
 a large aperture, which is an issue for skin stretching and clearance to roll over the toilet.
 Smaller apertures can also assist with maintaining posture. 
@@ -161,7 +161,7 @@ as a gel commode seat topper (available in adult standard size only, closed and 
 ROHO commode seat cushion (can be made to order), or I've cut a hole in an [<u>Equagel cushion</u>](http://otequip.info/2015/11/11/equagel-cushion.html),
 which worked quite well.
 
-**9. How will the new piece of equipment fit into the user's lifestlye?**
+**9. How will the new piece of equipment fit into the user's lifestyle?**
 
 _Do they travel?_ If so, a folding shower commode might be required. The ability to adjust the height may
 also be useful. Depending on the circumstances, the user might have an ideal mobile 
@@ -183,7 +183,7 @@ It's good to have a plan for storage before the equipment arrives.
 Imagine how the user is likely to change over the next few years, and
 go back over all the questions above considering the possible changes. Will your 
 original prescription still be valid? I look at getting adjustable features
-to manage predicatable changes, such as growth in children. With children, we
+to manage predictable changes, such as growth in children. With children, we
 plan for them to become more independent over time. For someone with a progressive
 condition, the ideal shower commode will be easily modified in future with more
 support, a higher pressure care seat, or other features they may benefit from.
@@ -198,4 +198,4 @@ and time consuming, not to mention embarrassing! I've been prescribing mobile sh
 regularly for 5 years and I still talk through most scripts with a colleague before
 submitting them, especially the trickier ones. Good luck! 
 
-If you have some mobile shower commode tips - please share!
+If you have some mobile shower commode questions or tips - don't be shy.

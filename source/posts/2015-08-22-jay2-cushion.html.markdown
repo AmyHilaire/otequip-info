@@ -39,12 +39,12 @@ of the many modular components available to assist with postural management.</p>
 
 When opening up a J2 cushion box, you will find the cushion (firm foam base, 
 fluid pad and cover), plus any accessories ordered. Accessories such as the adductor wedges
-or obliquity wedges come in pairs. The fluid supplement pads can be oridered 
+or obliquity wedges come in pairs. The fluid supplement pads can be ordered 
 individually and placed anywhere you like. I have found that you need to BYO additional
 adhesive Velcro and some scissors when setting up a J2 with additional postural components.
 
-As there can be a bit of a delay between trialing the cushion with a user and 
-their own cushion actually arriving, I've found that taking before and after photos 
+As there can be a bit of a delay between trialling the cushion with a user and 
+their own cushion actually arriving, I've found that **taking before and after photos** 
 of the user's posture, and taking photos of the set-up of the cushion at the stage 
 where everyone was happy, is a great habit. When it comes time to configure
 cushion, I've got a reminder of what went where!
@@ -58,18 +58,18 @@ firm back wall on the base removes all rub points for the sacrum.</p>
 
 The base is very firm foam; it has about as much give as polystyrene, but is much 
 more durable. Some people wonder at how this firm foam can give such great 
-pressure redistrubtion. The answer is the smart design. The contouring of the well,
+pressure redistribution. The answer is the smart design. The contouring of the well,
 its shape and size, takes pressure off the ischial tuberosities (ITs) and tailbone, and
 shifts the weight-bearing to the greater trochanters (GTs) and the femurs. 
 
 The GTs and the femurs are protected by the layer of softer foam built into
 the fluid tripad. The ITs and tailbone are immersed in a fluid gel. The "tripad"
-is named such because it has three comparments (one for each risk area), which helps
+is named such because it has three compartments (one for each risk area), which helps
 to stop the fluid migrating. That said, the fluid can still move about a fair bit. 
-Whenever I prescribe this cuchion, I am sure to tell the users that they need to 
+Whenever I prescribe this cushion, I am sure to tell the users that they need to 
 check the fluid every day and push it back towards the middle.
 
-The firm base at the front of the cushion is often appeciated by wheelchair users
+The firm base at the front of the cushion is often appreciated by wheelchair users
 who side-transfer, because they can wriggle their bottom forward and sit well-supported
 on the front before moving themselves sideways onto the other seat.
 
@@ -90,7 +90,7 @@ sliding on the wheelchair seat.</p>
 The cushion cover is nice and simple. The stretchy, soft fabric seems to deal very 
 well with sweat in our warm sub-tropical climate. 
 
-The potential downsides to be aware of:
+**The potential downsides to be aware of:**
 
 * It's pretty heavy, weighing 3-5kg. Not the heaviest around, but I wouldn't call it a light-weight cushion
 * The fluid pad occasionally bursts, so it loses some points on durability
@@ -98,7 +98,7 @@ The potential downsides to be aware of:
 * Need to keep an eye on potential pressure areas under GTs
 * It doesn't come in paediatric sizes
 
-The main benefits:
+**The main benefits:**
 
 * It has a great design for pressure management of ITs and sacrum/coccyx
 * It is easy to customise to accommodate or correct sitting posture, including pelvic obliquity, tilt and rotation
