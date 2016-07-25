@@ -126,6 +126,10 @@ td:first-child {
   padding-left: 20px;
 }
 
+ul {
+  padding-left: 2em;
+}
+
 .sidebar {
   width: 25%;
   background-color: white; /*#F5F6FE;*/
@@ -188,4 +192,8 @@ a:hover {
 /* selected link */
 a:active {
     color: #0000FF;
+}
+
+IMG[alt="HCPC Registered"] {
+  max-width: 60%;
 }
