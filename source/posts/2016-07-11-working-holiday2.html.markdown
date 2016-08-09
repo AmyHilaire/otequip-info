@@ -5,14 +5,15 @@ preview: /2016/07/11/working-holiday2/hcpc-london.jpg
 category: working-abroad non-clinical
 ---
 
-To work in the United Kingdom as an Occupational Therapist, Physiotherapist, 
-Speech & Language Therapist, Paramedic, Clinical Scientist, Dietician, Podiatrist,
-Psychologist, Social Worker, or other allied health professional, Health and Care Professions 
-Council (HCPC) registration is essential. While Australian health professionals are rarely denied 
+While Australian health professionals are rarely denied 
 registration, the application is definitely **not** quick and easy. I started the process 
 in July 2015, and was granted my registration on 9th February, 2016. 
 From start to finish, my application took about **7 months**.
-It doesn’t “usually” take that long, but it easily can.
+It doesn’t “usually” take that long, but it easily can. To work in the United Kingdom 
+as an Occupational Therapist, Physiotherapist, 
+Speech & Language Therapist, Paramedic, Clinical Scientist, Dietician, Podiatrist,
+Psychologist, Social Worker, or other allied health professional, Health and Care Professions 
+Council (HCPC) registration is essential.
 
 The HCPC have virtually the same role as the Australian Health Practitioners Regulation 
 Agency (AHPRA). They ensure that health professionals uphold quality standards and follow the law. 
