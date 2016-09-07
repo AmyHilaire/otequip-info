@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working Holiday in the UK - Part 1"
+title: "Working Holiday Part 1: UK, Here I Come!"
 preview: /2016/06/26/working-holiday1/london1.jpg
 category: working-abroad non-clinical
 ---
