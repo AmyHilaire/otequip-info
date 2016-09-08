@@ -17,8 +17,8 @@ It’s a good idea to register with more than one agency. Most of the locums I'v
 talked to are registered with up to three. There are a few reasons for this:
 
 * While the agencies have many of the same jobs, some may specialise in different areas (geographical or organisational) and have roles that other agencies don't.
-* Larger firms are generally useful for getting settled, as they have more staff and sometimes organise social events etc.
-* Smaller firms may offer a slightly higher pay rate, so that you take the position through them rather than a larger firm.
+* Larger agencies are generally useful for getting settled, as they have more staff and sometimes organise social events etc.
+* Smaller agencies may offer a slightly higher pay rate, so that you take the position through them rather than a larger agency.
 * If you become a limited company (which most locums do) you will need to show that you are working as an independent contractor rather than as an employee. Working for more than one agency in the tax year makes your tax clearer in regards to IR35 (I will explain limited companies in another post).
 
 The three agencies I’ve come across the most are Sugarman, JustOT/JustPhysio/Mediplacements, 
