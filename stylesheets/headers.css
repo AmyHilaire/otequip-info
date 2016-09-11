@@ -11,7 +11,8 @@
 
 .header h1 {
   font-family: "Bree Serif",Georgia,serif;
-  color: #F5F6FE;
+/*  color: #F5F6FE;*/
+  color: #FFFFFF;
   text-align: center;
   font-size: 100px;
   padding-top: 70px;
@@ -22,7 +23,8 @@
 
 .header h2 {
   font-family: "Dancing Script","Zapfino","Monotype Corsiva",cursive;
-  color: #F5F6FE;
+/*  color: #F5F6FE;*/
+  color: #FFFFFF;
   text-align: center;
   font-size: 60px;
   text-shadow: 2px 2px 15px #24288C;
@@ -32,7 +34,8 @@
 
 .header h3 {
   font-family: "Bree Serif",Georgia,serif;
-  color: #F5F6FE;
+/*  color: #F5F6FE;*/
+  color: #FFFFFF;
   text-align: center;
   font-size: 30px;
   padding-top: 70px;
@@ -58,7 +61,7 @@
   list-style-image: none;
   display: inline;
   padding-right: 3em;
-  padding-left: 3em;
+/*  padding-left: 3em;*/
   text-align: center;
   text-decoration: none;
 }
