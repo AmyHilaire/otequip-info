@@ -3,13 +3,14 @@
   <head>
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= current_page.data.title || "OT Equipment Info" %></title>
+    <title><%= current_page.data.title || "OT Equip" %></title>
     <%= partial "layouts/head" %>
 
   </head>
 
   <body class="<%= page_classes %>">
-    <%= yield %>
+    <div><%= yield %></div>
+    <hr/>
     <%= partial "layouts/footer" %>
     <%= partial "layouts/googleanalytics" %>
   </body>
