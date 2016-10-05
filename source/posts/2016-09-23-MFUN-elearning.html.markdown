@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Administration & Scoring of the M-FUN - Reflections on the SPD University eLearning course
-preview: /2016/09/23/MFUN-elearning/ICFandMFUN.png
+preview: /2016/09/23/MFUN-elearning/writing.jpeg
 category: assessment, clinical
 ---
 
