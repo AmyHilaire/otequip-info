@@ -1,199 +1,213 @@
-@charset "utf-8";
+/* line 4, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_box-sizing.scss */
+html {
+  box-sizing: border-box; }
 
-/* This is a note */
+/* line 9, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_box-sizing.scss */
+*, *::after, *::before {
+  box-sizing: inherit; }
 
-html, body {
-  padding: 0;
-  margin: 0;
-}
-
+/* This is a note or press Ctrl + / */
+/* line 10, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 body {
-  background-color: #F5F6FE;
-} 
+  background-color: #f6f7fe; }
 
+/* line 14, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .container {
-  width: 80%;
-  margin: auto;
-}
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; }
+  /* line 20, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/mixins/_clearfix.scss */
+  .container::after {
+    clear: both;
+    content: "";
+    display: block; }
 
+/* line 19, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+.container .main-content-area {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 74.41059%; }
+  /* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_span-columns.scss */
+  .container .main-content-area:last-child {
+    margin-right: 0; }
 
+/* line 23, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+.container .sidebar-container {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 23.23176%; }
+  /* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_span-columns.scss */
+  .container .sidebar-container:last-child {
+    margin-right: 0; }
+
+/* line 28, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 h1 {
-  font-family: "Bree Serif",Georgia,serif;  
-  color: #24288C;
+  font-family: "Bree Serif",Georgia,serif;
+  color: #25288e;
   font-weight: bold;
   font-size: 32px;
   margin: 0px;
   padding-top: 1em;
-  /* padding-bottom: 0.5em; */
-}
+  /* padding-bottom: 0.5em; */ }
 
+/* line 38, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 h2 {
-  font-family: "Bree Serif",Georgia,serif;  
-  color: #24288C;
+  font-family: "Bree Serif",Georgia,serif;
+  color: #25288e;
   font-size: 28px;
   margin: 0px;
   padding-top: 1em;
-  /* padding-bottom: 0.5em; */
-}
+  /* padding-bottom: 0.5em; */ }
 
+/* line 47, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .date {
-  font-family: "Lato",Tahoma,sans-serif;
   font-weight: 300;
   font-size: 0.9em;
-  color: #343B5E;
   margin-top: 0;
-  padding-bottom: 1em;
-}
+  padding-bottom: 1em; }
 
+/* line 54, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+.main-content-area {
+  font-size: 1.3em;
+  line-height: 1.8;
+  margin-top: 0px;
+  font-family: "Lato",Tahoma,sans-serif;
+  color: #353c5f; }
+
+/* line 65, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+.caption {
+  font-size: 1em;
+  margin-top: 0;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center; }
+
+/* line 73, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 IMG {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 100%;
-}
-  
+  max-width: 100%; }
+
+/* line 80, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .profile {
-  float: left; 
+  float: left;
   padding-right: 1em;
   padding-left: 0;
   padding-top: 1em;
   padding-bottom: 0;
-  display: table-cell;
-}
+  display: table-cell; }
 
+/* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .youtube {
   display: table-cell;
   margin: auto;
   top: 50%;
-  left: 50%;
-}
+  left: 50%; }
 
+/* line 96, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .preview {
- /* float: left; 
-  padding-right: 1em; */
+  /* float: left; 
+   padding-right: 1em; */
   padding: 1em;
-  display: table-cell;
-}
+  display: table-cell; }
 
+/* line 103, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .summary {
-  display: table-cell;
-}
+  display: table-cell; }
 
-.caption {
-  font-size: 1em;
-  color: #343B5E;
-  margin-top: 0;
-  font-family: "Lato";
-  font-weight: 300;
-  font-style: italic;
-  text-align: center;
-}
-
+/* line 107, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 hr {
-  color: #E4E4F0;
-}
+  color: #E4E4F0; }
 
-.article {
-  display: block;
-  width: 70%;
-  font-family: "Lato",Tahoma,sans-serif;
-  font-size: 1.3em;
-  line-height: 1.8;
-  color: #343B5E;
-  margin-top: 0px;
-  float: left;
-}
-
+/* line 111, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 table, th, td {
   font-size: 0.9em;
   border: 3px solid #E4E4F0;
   border-collapse: collapse;
   text-align: center;
   width: 100%;
-  table-layout: fixed;
-}
+  table-layout: fixed; }
 
+/* line 120, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 td, th {
-  padding: 5px;
-}
+  padding: 5px; }
 
+/* line 124, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 th {
-  background-color: #E4E4F0;
-}
+  background-color: #E4E4F0; }
 
+/* line 128, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 td:first-child {
   background-color: #E4E4F0;
-  padding-left: 20px;
-}
+  padding-left: 20px; }
 
+/* line 133, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 ul {
-  padding-left: 2em;
-}
+  padding-left: 2em; }
 
+/* line 137, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .sidebar {
-  width: 25%;
-  background-color: white; /*#F5F6FE;*/
-  float: right;
-  margin: auto;
+  background-color: white;
   text-align: center;
   font-family: "Lato",Tahoma,sans-serif;
-  padding: 1em;
-  border-left: 10pt;
-  border-left-color: black;
-}
+  padding: 1em; }
 
+/* line 149, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .sidebar, .recentposts {
   font-size: 1em;
   line-height: 1.5;
   text-align: left;
-  color: #343B5E;
-}
+  color: #343B5E; }
 
+/* line 156, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .subfooter {
   text-align: center;
   margin: auto;
-  width: 55%;
-}
+  width: 55%; }
 
+/* line 162, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .footer {
   width: 60%;
   margin: auto;
   text-align: center;
   font-family: "Lato",Tahoma,sans-serif;
   font-weight: 300;
-  color: #343B5E;
-}
+  color: #343B5E; }
 
+/* line 171, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .footer li {
   list-style-type: none;
   list-style-image: none;
   display: inline;
   padding-right: 3em;
   padding-left: 3em;
-  text-align: center;
-}
+  text-align: center; }
 
 /* unvisited link */
+/* line 181, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:link {
-    color: inherit;
-    text-decoration: none;
-}
+  color: inherit;
+  text-decoration: none; }
 
 /* visited link */
+/* line 187, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:visited {
-    color: inherit;
-}
+  color: inherit; }
 
 /* mouse over link */
+/* line 192, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:hover {
-  text-decoration: underline;
-}
+  text-decoration: underline; }
 
 /* selected link */
+/* line 197, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:active {
-    color: #0000FF;
-}
+  color: #0000FF; }
 
+/* line 201, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 IMG[alt="HCPC Registered"] {
-  max-width: 60%;
-}
+  max-width: 60%; }
