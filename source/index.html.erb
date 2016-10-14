@@ -16,9 +16,8 @@ per_page: 10
 
 
 <div class="container">
-    <%= partial "layouts/sidebar" %>
     
-  <div>
+  <!--<div>
     <% if paginate && num_pages > 1 %>
       <p>Page <%= page_number %> of <%= num_pages %></p>
     
@@ -35,34 +34,37 @@ per_page: 10
     <% end %>
     <% end %>
     <% end %>
-  </div>
+  </div> -->
 
   <div class="article">
-  <% page_articles.each_with_index do |article, i| %>
-    <h1><%= link_to article.title, article %> </h1>
-    <div class="date"><%= article.date.strftime('%e %b, %Y') %></div>
+    <% page_articles.each_with_index do |article, i| %>
+      <h1><%= link_to article.title, article %> </h1>
+      <div class="date"><%= article.date.strftime('%e %b, %Y') %></div>
       <!-- use article.summary(250) if you have Nokogiri available to show just
        the first 250 characters -->
        
-    <div class="summary">
-      <% if article.data.preview %>
-        <% link_to article do %>
-          <img class="preview" src="<%=article.data.preview %>" alt="Preview" style="width:600px;">
+      <div class="summary">
+        <% if article.data.preview %>
+          <% link_to article do %>
+            <img class="preview" src="<%=article.data.preview %>" alt="Preview" style="width:600px;">
+          <% end %>
         <% end %>
-      <% end %>
   
-      <%= article.summary(300) %> 
-      <%= link_to 'Read more', article %>
-      <hr />
+        <%= article.summary(300) %> 
+        <%= link_to 'Read more', article %>
+        <hr />
+      </div>
     <% end %>
-    </div>
   </div>
 
-  <div>
+  
+  <!--<div>
   <% if paginate %>
     <% if next_page %>
       <p><%= link_to 'Next page', next_page %></p>
     <% end %>
   <% end %>
-  </div>
+  </div>-->
+  
+  <%= partial "layouts/sidebar" %>
 </div>

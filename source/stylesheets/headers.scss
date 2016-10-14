@@ -1,0 +1,68 @@
+@import 'bourbon/bourbon';
+@import 'neat/neat';
+
+.header {
+  background-color: hsl(230, 29%, 29%);
+  background-image: url('/images/metal-plate-header3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 0%;
+  padding-top: 0;
+  padding-bottom: 40px;
+  min-height: 300px;
+}
+
+.header h1 {
+  font-family: "Bree Serif",Georgia,serif;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 100px;
+  padding-top: 70px;
+  padding-bottom: 40px;
+  text-shadow: 2px 2px 15px #24288C;
+  margin: auto;
+}
+
+.header h2 {
+  font-family: "Dancing Script","Zapfino","Monotype Corsiva",cursive;
+/*  color: #F5F6FE;*/
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 2px 2px 15px #24288C;
+  width: 60%;
+  margin: auto;
+}
+
+.header h3 {
+  font-family: "Bree Serif",Georgia,serif;
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  font-size: 30px;
+  padding-top: 70px;
+  padding-bottom: 40px;
+  text-shadow: 2px 2px 15px hsl(238, 59%, 35%);
+  margin: auto;
+}
+
+.slim {
+  background-image: url('/images/metal-plate-header3.jpg');
+  margin: auto;
+  padding-bottom: 0;
+  min-height: 0;
+}
+
+.slim h1 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+.menu li {
+  list-style-type: none;
+  list-style-image: none;
+  display: inline;
+  padding-right: 3em;
+/*  padding-left: 3em;*/
+  text-align: center;
+  text-decoration: none;
+}

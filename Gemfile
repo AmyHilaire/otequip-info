@@ -1,6 +1,6 @@
 # If you have OpenSSL installed, we recommend updating
 # the following line to use "https"
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 gem "middleman", "~>3.3.12"
 gem "middleman-blog", "~> 3.5.3"
@@ -24,3 +24,7 @@ gem 'middleman-dragonfly_thumbnailer', '~> 1.0.2'
 
 gem 'carrierwave'
 gem 'mini_magick', '3.8.0'
+
+gem 'sass'
+gem 'bourbon'
+gem 'neat'
