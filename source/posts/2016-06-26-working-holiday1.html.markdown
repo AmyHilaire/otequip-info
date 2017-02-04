@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working Holiday Part 1: UK, Here I Come!"
+title: "Working Abroad Part 1: UK, Here I Come!"
 preview: /2016/06/26/working-holiday1/london1.jpg
 category: working-abroad non-clinical
 ---
@@ -8,7 +8,7 @@ category: working-abroad non-clinical
 While studying Occupational Therapy at university, it became clear that working 
 in the UK or Ireland for a couple of years was a very common thing for OTs to do. 
 It’s a well trodden path. It sounded so easy: just get a couple of years'
-experience, and head on over there! It might even be a way of moving up career levels 
+experience, and head on over there! It might even be a way of earning seniority 
 more quickly.
 
 ![London](/2016/06/26/working-holiday1/london1.jpg)

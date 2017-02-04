@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working Holiday Part 3: Recruitment"
+title: "Working Abroad Part 3: Recruitment"
 preview: /2016/09/07/working-holiday3/WhyYouNeedAnAgent.jpg
 category: working-abroad non-clinical
 ---

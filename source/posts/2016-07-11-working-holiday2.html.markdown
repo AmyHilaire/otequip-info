@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working Holiday Part 2: HCPC Registration (UK)"
+title: "Working Abroad Part 2: HCPC Registration (UK)"
 preview: /2016/07/11/working-holiday2/hcpc-london.jpg
 category: working-abroad non-clinical
 ---
