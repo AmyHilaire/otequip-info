@@ -6,10 +6,11 @@ html {
 *, *::after, *::before {
   box-sizing: inherit; }
 
-/* line 4, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+/*$indigo: hsl(238deg, 59%, 35%);*/
+/* line 11, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
 .header {
-  background-color: #353c5f;
-  background-image: url("/images/metal-plate-header3.jpg");
+  background-color: #22016f;
+  /*  background-image: url('/images/metal-plate-header3.jpg');*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 0%;
@@ -17,29 +18,28 @@ html {
   padding-bottom: 40px;
   min-height: 300px; }
 
-/* line 15, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+/* line 22, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
 .header h1 {
   font-family: "Bree Serif",Georgia,serif;
-  color: #FFFFFF;
+  color: white;
   text-align: center;
   font-size: 100px;
-  padding-top: 70px;
-  padding-bottom: 40px;
-  text-shadow: 2px 2px 15px #24288C;
+  padding-top: 60px;
+  padding-bottom: 30px;
   margin: auto; }
 
-/* line 26, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+/* line 32, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
 .header h2 {
   font-family: "Dancing Script","Zapfino","Monotype Corsiva",cursive;
   /*  color: #F5F6FE;*/
-  color: #FFFFFF;
+  color: white;
   text-align: center;
   font-size: 60px;
-  text-shadow: 2px 2px 15px #24288C;
   width: 60%;
-  margin: auto; }
+  margin: auto;
+  padding-bottom: 40px; }
 
-/* line 37, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+/* line 43, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
 .header h3 {
   font-family: "Bree Serif",Georgia,serif;
   color: white;
@@ -47,27 +47,31 @@ html {
   font-size: 30px;
   padding-top: 70px;
   padding-bottom: 40px;
-  text-shadow: 2px 2px 15px #25288e;
   margin: auto; }
 
-/* line 48, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+/* line 53, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
 .slim {
-  background-image: url("/images/metal-plate-header3.jpg");
+  /*  background-image: url('/images/metal-plate-header3.jpg');*/
   margin: auto;
   padding-bottom: 0;
   min-height: 0; }
 
-/* line 55, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+/* line 60, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
 .slim h1 {
   padding-top: 30px;
   padding-bottom: 15px; }
 
-/* line 60, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+/* line 65, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
+.slim h2 {
+  font-size: 40px;
+  padding-top: 20px;
+  padding-bottom: 30px; }
+
+/* line 71, /home/ubuntu/workspace/otequip-info/source/stylesheets/headers.scss */
 .menu li {
   list-style-type: none;
   list-style-image: none;
   display: inline;
-  padding-right: 3em;
   /*  padding-left: 3em;*/
   text-align: center;
   text-decoration: none; }
