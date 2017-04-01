@@ -7,11 +7,7 @@ html {
   box-sizing: inherit; }
 
 /* This is a note or press Ctrl + / */
-/* line 10, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
-body {
-  background-color: #f6f7fe; }
-
-/* line 14, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 9, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .container {
   max-width: 1200px;
   margin-left: auto;
@@ -23,7 +19,7 @@ body {
     content: "";
     display: block; }
 
-/* line 19, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 14, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .container .main-content-area {
   float: left;
   display: block;
@@ -32,8 +28,18 @@ body {
   /* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_span-columns.scss */
   .container .main-content-area:last-child {
     margin-right: 0; }
+  @media screen and (max-width: 980px) {
+    /* line 14, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+    .container .main-content-area {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 100%; }
+      /* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_span-columns.scss */
+      .container .main-content-area:last-child {
+        margin-right: 0; } }
 
-/* line 23, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 21, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .container .sidebar-container {
   float: left;
   display: block;
@@ -42,8 +48,22 @@ body {
   /* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_span-columns.scss */
   .container .sidebar-container:last-child {
     margin-right: 0; }
+  @media screen and (max-width: 980px) {
+    /* line 21, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+    .container .sidebar-container {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 100%; }
+      /* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/neat/grid/_span-columns.scss */
+      .container .sidebar-container:last-child {
+        margin-right: 0; } }
 
-/* line 28, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 41, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+body {
+  background-color: #f6f7fe; }
+
+/* line 45, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 h1 {
   font-family: "Bree Serif",Georgia,serif;
   color: #25288e;
@@ -53,7 +73,7 @@ h1 {
   padding-top: 1em;
   /* padding-bottom: 0.5em; */ }
 
-/* line 38, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 55, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 h2 {
   font-family: "Bree Serif",Georgia,serif;
   color: #25288e;
@@ -62,14 +82,14 @@ h2 {
   padding-top: 1em;
   /* padding-bottom: 0.5em; */ }
 
-/* line 47, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 64, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .date {
   font-weight: 300;
   font-size: 0.9em;
   margin-top: 0;
   padding-bottom: 1em; }
 
-/* line 54, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 71, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .main-content-area {
   font-size: 1.3em;
   line-height: 1.8;
@@ -77,7 +97,7 @@ h2 {
   font-family: "Lato",Tahoma,sans-serif;
   color: #353c5f; }
 
-/* line 65, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 82, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .caption {
   font-size: 1em;
   margin-top: 0;
@@ -85,14 +105,14 @@ h2 {
   font-style: italic;
   text-align: center; }
 
-/* line 73, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 90, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 IMG {
   display: block;
   margin-left: auto;
   margin-right: auto;
   max-width: 100%; }
 
-/* line 80, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 97, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .profile {
   float: left;
   padding-right: 1em;
@@ -101,29 +121,29 @@ IMG {
   padding-bottom: 0;
   display: table-cell; }
 
-/* line 89, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 106, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .youtube {
   display: table-cell;
   margin: auto;
   top: 50%;
   left: 50%; }
 
-/* line 96, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 113, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .preview {
   /* float: left; 
    padding-right: 1em; */
   padding: 1em;
   display: table-cell; }
 
-/* line 103, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 120, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .summary {
   display: table-cell; }
 
-/* line 107, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 124, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 hr {
   color: #E4E4F0; }
 
-/* line 111, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 128, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 table, th, td {
   font-size: 0.9em;
   border: 3px solid #E4E4F0;
@@ -132,44 +152,44 @@ table, th, td {
   width: 100%;
   table-layout: fixed; }
 
-/* line 120, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 137, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 td, th {
   padding: 5px; }
 
-/* line 124, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 141, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 th {
   background-color: #E4E4F0; }
 
-/* line 128, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 145, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 td:first-child {
   background-color: #E4E4F0;
   padding-left: 20px; }
 
-/* line 133, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 150, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 ul {
   padding-left: 2em; }
 
-/* line 137, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 154, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .sidebar {
   background-color: white;
   text-align: center;
   font-family: "Lato",Tahoma,sans-serif;
   padding: 1em; }
 
-/* line 149, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 166, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .sidebar, .recentposts {
   font-size: 1em;
   line-height: 1.5;
   text-align: left;
   color: #343B5E; }
 
-/* line 156, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 173, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .subfooter {
   text-align: center;
   margin: auto;
   width: 55%; }
 
-/* line 162, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 179, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .footer {
   width: 60%;
   margin: auto;
@@ -178,7 +198,7 @@ ul {
   font-weight: 300;
   color: #343B5E; }
 
-/* line 171, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 188, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 .footer li {
   list-style-type: none;
   list-style-image: none;
@@ -188,26 +208,26 @@ ul {
   text-align: center; }
 
 /* unvisited link */
-/* line 181, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 198, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:link {
   color: inherit;
   text-decoration: none; }
 
 /* visited link */
-/* line 187, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 204, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:visited {
   color: inherit; }
 
 /* mouse over link */
-/* line 192, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 209, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:hover {
   text-decoration: underline; }
 
 /* selected link */
-/* line 197, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 214, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:active {
   color: #0000FF; }
 
-/* line 201, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
+/* line 218, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 IMG[alt="HCPC Registered"] {
   max-width: 60%; }
