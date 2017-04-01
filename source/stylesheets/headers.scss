@@ -1,9 +1,16 @@
 @import 'bourbon/bourbon';
 @import 'neat/neat';
 
+$light-indigo: hsl(233deg, 82%, 98%);
+$indigo: hsl(258, 98%, 22%);
+/*$indigo: hsl(238deg, 59%, 35%);*/
+$dark-indigo: hsl(230deg, 29%, 29%);
+$turquiose: hsl(175, 63%, 81%);
+$white: hsl(0, 0%, 100%);
+
 .header {
-  background-color: hsl(230, 29%, 29%);
-  background-image: url('/images/metal-plate-header3.jpg');
+  background-color: $indigo;
+/*  background-image: url('/images/metal-plate-header3.jpg');*/
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 0%;
@@ -14,39 +21,37 @@
 
 .header h1 {
   font-family: "Bree Serif",Georgia,serif;
-  color: #FFFFFF;
+  color: $white;
   text-align: center;
   font-size: 100px;
-  padding-top: 70px;
-  padding-bottom: 40px;
-  text-shadow: 2px 2px 15px #24288C;
+  padding-top: 60px;
+  padding-bottom: 30px;
   margin: auto;
 }
 
 .header h2 {
   font-family: "Dancing Script","Zapfino","Monotype Corsiva",cursive;
 /*  color: #F5F6FE;*/
-  color: #FFFFFF;
+  color: $white;
   text-align: center;
   font-size: 60px;
-  text-shadow: 2px 2px 15px #24288C;
   width: 60%;
   margin: auto;
+  padding-bottom: 40px;
 }
 
 .header h3 {
   font-family: "Bree Serif",Georgia,serif;
-  color: hsl(0, 0%, 100%);
+  color: $white;
   text-align: center;
   font-size: 30px;
   padding-top: 70px;
   padding-bottom: 40px;
-  text-shadow: 2px 2px 15px hsl(238, 59%, 35%);
   margin: auto;
 }
 
 .slim {
-  background-image: url('/images/metal-plate-header3.jpg');
+/*  background-image: url('/images/metal-plate-header3.jpg');*/
   margin: auto;
   padding-bottom: 0;
   min-height: 0;
@@ -57,11 +62,17 @@
   padding-bottom: 15px;
 }
 
+.slim h2 {
+  font-size: 40px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
 .menu li {
   list-style-type: none;
   list-style-image: none;
   display: inline;
-  padding-right: 3em;
+  // padding-right: 3em;
 /*  padding-left: 3em;*/
   text-align: center;
   text-decoration: none;
