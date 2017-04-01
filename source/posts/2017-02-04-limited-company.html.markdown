@@ -5,15 +5,13 @@ preview: /2017/02/04/limited-company/girl-umbrella-bridge1.jpg
 category: working-abroad non-clinical
 ---
 
-**PLEASE NOTE: Changes to the IR35 Intermediaries legislation, coming into effect for the 2017/2018 tax year, mean that working as an OT locum through a limited company is no longer an attractive option for me.** 
+**UPDATE: Changes to the IR35 Intermediaries legislation, coming into effect for the 2017/2018 tax year, mean that working as an OT locum through a limited company is no longer an attractive option for me.** 
 
 In the six weeks before I left Australia to start working in the UK, the agencies
 started asking "Are you going with an umbrella company or a limited company?"
 I was completely puzzled at why I needed either of them. How do they work?
 What's the difference? And no one would give any guidance due to legal reasons.
 
-**[Please note: this post is not intended as advice. I am not an expert in this topic.
-It is only a record of my own experiences for the information of others.]**
 
 **1. Why do you NEED to choose one or the other?**
 
