@@ -13,7 +13,7 @@ experienced occupational therapist and researcher.
 Dr Miller has done a lot of work in the area of sensory processing disorder (SPD),
 and has founded the SPD Foundation, the STAR Centre for SPD treatment, and the SPD
 University, which provides online education to caregivers, the community, and health professionals. The M-FUN-PS
-was published by [Pearson Clinical](https://www.pearsonclinical.com.au/products/view/143#tabs=0) in 2006,
+was published by __[Pearson Clinical](https://www.pearsonclinical.com.au/products/view/143#tabs=0)__ in 2006,
 and can be purchased through the Pearson website.
 
 ![M-FUN-PS Administration Directions](/2016/01/13/mfun/manual.jpg)
@@ -109,7 +109,7 @@ measure of "Participation".
 Now that you've had a taste of how the M-FUN is administered, let me share my
 experiences in using it.
 
-**Things to Like:**
+**Things I Like:**
 
 * The assessment appeals to children. It is actually fun, as it was designed to be.
 * It gives you LOTS of information about the child's physical development and function.
@@ -148,7 +148,7 @@ children to finish their work too, but the time limits are very short for the ch
 I work with, and it's very difficult to stop them half way through every single item!
 It's not great for rapport or for their sense of accomplishment.
 * I've found it takes more preparation time than other assessments, and it takes longer to score,
-compared to something simpler like the [DTVP-3](/2015/10/24/dtvp2-vs-dtvp3.html)
+compared to something simpler like the __[DTVP-3](/2015/10/24/dtvp2-vs-dtvp3.html)__
 * It's American. For example, one of the Classroom Observations Checklist items is about
 whether the child can carry their tray in the cafeteria. This isn't relevant in most Australian schools.
 I've modified this item to be "manages lunch box independently."
@@ -157,7 +157,7 @@ I've modified this item to be "manages lunch box independently."
 **Tips for Easier M-FUN Administration:**
 
 * In researching for this post, I've come across a 4 hour e-learning course by Dr Lucy Miller on using the M-FUN-PS.
-It's available on the [SPD University website](http://spduniversity.org/) for US$185, course #2301 and #2302. 
+It's available on the __[SPD University website](http://spduniversity.org/)__ for US$185, course #2301 and #2302. 
 I'm planning to do them soon, so I'll let you know if they're helpful.
 * It helps to have two people administering the assessment together. I have done it with a physio,
 where we took turns between scoring/time-keeping and administering the tasks for the FM and GM sections. 
@@ -174,6 +174,7 @@ so you can check things afterwards, particularly the first few times you adminis
 Overall, I find the M-FUN to be very useful, when a rigorous assessment is
 required. It is fun for the child and provides helpful information to the examiner.
 
-Well, there are my thoughts. What are yours? Have you used the M-FUN-PS? 
+See my post about __[M-FUN Online Learning Course](http://otequip.info/2016/09/23/MFUN-elearning.html)__
 
-Please comment below...
+Well, there are my thoughts. What are yours? Have you used the M-FUN-PS? 
+Please share your comments.

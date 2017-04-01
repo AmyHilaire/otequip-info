@@ -3,13 +3,8 @@
 
 /* This is a note or press Ctrl + / */
 
-$light-indigo: hsl(233deg, 82%, 98%);
-$indigo: hsl(238deg, 59%, 35%);
-$dark-indigo: hsl(230deg, 29%, 29%);
 
-body {
-  background-color: hsl(233, 82%, 98%);
-} 
+$mobile: new-breakpoint(max-width 980px);
 
 .container {
   @include outer-container;
@@ -18,12 +13,34 @@ body {
 
 .container .main-content-area {
   @include span-columns(9);
+  @include media($mobile) {
+    @include span-columns(12);
+  }
 }
 
 .container .sidebar-container {
   @include span-columns(3);
+  @include media($mobile) {
+    @include span-columns(12);
+  }
 }
 
+// {
+//   @include media($mobile) {
+//   @include span-columns(4);
+// }
+//   @include media($desktop) {
+//     @include span-columns(12);
+//   }
+// }
+
+$light-indigo: hsl(233deg, 82%, 98%);
+$indigo: hsl(238deg, 59%, 35%);
+$dark-indigo: hsl(230deg, 29%, 29%);
+
+body {
+  background-color: hsl(233, 82%, 98%);
+} 
 
 h1 {
   font-family: "Bree Serif",Georgia,serif;  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Administration & Scoring of the M-FUN - Reflections on the SPD University eLearning course
+title: eLearning&#58; Administration & Scoring of the M-FUN
 preview: /2016/09/23/MFUN-elearning/writing.jpeg
 category: assessment, clinical
 ---
@@ -18,7 +18,7 @@ learnt now that the test was standardised in a way that means you **can**
 change things to suit the child without breaching standard administration.
 For example, if a child is fatiguing significantly, you can split the assessment
 into several sessions. You can change the order of the items so snack time comes
-earlier if the child needs a break. Wow.
+earlier if the child needs a break. Wow - it's such a relief to have this flexibility within a standardised assessment.
 
 The webinars included video examples. I found it useful to see other
 therapists administering the assessment, though the videos were focused on
