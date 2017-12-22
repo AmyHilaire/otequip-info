@@ -2,20 +2,22 @@
 layout: post
 title: "The Importance of 24-hour Postural Care"
 preview: /2017/09/28/24hr-postural-care/24hr-postural-care.jpg
-category: posture equipment
+category: posture equipment, CPD
 ---
 
 In July 2017, I attended the Posture and Mobility Group conference in Cardiff, Wales. 
 I returned to London feeling inspired and refreshed. In that post-conference euphoria,
-I wrote the follwing article for the PMG Journal. Edited by Olwen Ellis. 
-Read the original **[here](https://www.pmguk.co.uk/journals/24-hour-postural-care)** 
+I wrote the following article for the PMG Journal. Edited by Olwen Ellis. 
+Read the original **[here](https://www.pmguk.co.uk/journals/24-hour-postural-care)**.
+
+Here is a great little video that introduces 24-hour postural care, from Simple Stuff Works.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CeWMltvzgOg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 I love learning something at a conference that I can apply immediately to my work. 
 A presentation that particularly struck me at the Posture & Mobility Group (PMG) 
-Conference 2017 in Cardiff was A person-centred approach to the protection and 
-restoration of body shape: how can equipment in sitting and lying help meet individual 
-goals and changing needs to improve quality of life, by Helena Poulton (occupational therapist) 
-and Tess Ellis (physiotherapist).
+Conference 2017 in Cardiff was **A person-centred approach to the protection and restoration of body shape: how can equipment in sitting and lying help meet individual goals and changing needs to improve quality of life**, 
+by Helena Poulton (occupational therapist) and Tess Ellis (physiotherapist).
 
 Their presentations put forward that:
 
@@ -82,7 +84,3 @@ watching the conference presentations again online.
 
 * * *
 
-While we're on the topic, here is a great little video that explains the importance
-of 24-hour postural care, from Simple Stuff Works.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CeWMltvzgOg?rel=0" frameborder="0" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ benefits such as sick leave, annual leave, or insurance.
 Locum work is purely paid by the hour, like a casual employee. If you don't work, you don't get paid. 
 On the flipside, the locum can choose to take time off at times that suit them, 
 and contracts can be ended with one week notice. Locums fill in maternity leave positions,
-complete short-term projects, or fill a role quickly while a permanent employee is recruited.
+complete short-term projects, or fill a role temporarily while a permanent employee is recruited.
 
 **Why use an Agency?** In order to do locum work, registering with at least one agency 
 is essential. Agencies also provide helpful advice on moving, particularly if you don't know 
@@ -28,7 +28,7 @@ Most of the locums I've talked to are registered with up to three. There are a f
 * While the agencies have many of the same jobs, some may specialise in different areas (geographical or organisational) and have roles that other agencies don't.
 * Larger agencies are generally useful for getting settled, as they have more staff and sometimes organise social events etc.
 * Smaller agencies may offer a slightly higher pay rate, so that you take the position through them rather than a larger agency.
-* If you become a limited company (which most locums do) you will need to show that you are working as an independent contractor rather than as an employee. Working for more than one agency in the tax year makes your tax clearer in regards to IR35 (I will explain limited companies in another post).
+* If you become a limited company (which most locums prior to 2017 used to do) you will need to show that you are working as an independent contractor rather than as an employee. Working for more than one agency in the tax year makes your tax clearer in regards to IR35 (**[more info on limited companies here](http://otequip.info/2017/02/04/limited-company.html)**).
 
 ![Communication Diagram](/2016/09/07/working-holiday3/GettingWorkS.png)
 <p class="caption">Communication channels for locum work</p>

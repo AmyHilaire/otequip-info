@@ -2,7 +2,7 @@
 layout: post
 title: eLearning&#58; Administration & Scoring of the M-FUN
 preview: /2016/09/23/MFUN-elearning/writing.jpeg
-category: assessment, clinical
+category: assessment, clinical, CPD
 ---
 
 The most important thing I learnt from the SPD University Miller Function and
