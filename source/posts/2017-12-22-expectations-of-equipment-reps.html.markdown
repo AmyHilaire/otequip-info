@@ -2,7 +2,7 @@
 layout: post
 title: "The 7 Things I Expect of Equipment Sales Representatives"
 preview: /2017/12/22/expectations-of-equipment-reps/7-things-I-expect-of-equipment-reps.jpg
-category: 
+category: professional-issues
 ---
 
 As occupational therapists, we often use equipment to solve problems and enable 
