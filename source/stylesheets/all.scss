@@ -25,14 +25,6 @@ $mobile: new-breakpoint(max-width 980px);
   }
 }
 
-// {
-//   @include media($mobile) {
-//   @include span-columns(4);
-// }
-//   @include media($desktop) {
-//     @include span-columns(12);
-//   }
-// }
 
 $light-indigo: hsl(233deg, 82%, 98%);
 $indigo: hsl(238deg, 59%, 35%);

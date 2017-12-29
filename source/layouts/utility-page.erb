@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+  <head>
+
+    <!-- Use title if it's in the page YAML frontmatter -->
+    <title><%= current_page.data.title || "OT Equip" %></title>
+    <%= partial "layouts/head" %>
+
+  </head>
+
+  <body>
+    <div class="header slim">
+      <a href="/">
+        <h1>OT Equip</h1>
+      </a>
+      <h2>From one Occupational Therapist to another</h2>
+    </div>
+
+    <div class="container">
+      <div class="main-content-area">
+        <h1><%=current_page.data.title %></h1>
+        <div id="main" role="main">
+          <p><%= yield %></p>
+        </div>
+        <%= partial "layouts/sidebar" %>
+      </div>
+    </div>
+  
+    
+    
+    <hr/>
+    <%= partial "layouts/footer" %>
+    <%= partial "layouts/googleanalytics" %>
+  </body>
+  
+</html>
