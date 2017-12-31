@@ -144,15 +144,23 @@ ul {
 }
 
 .sidebar {
-  // width: 25%;
   background-color: white;
-  // float: right;
-  // margin: auto;
   text-align: center;
   font-family: "Lato",Tahoma,sans-serif;
   padding: 1em;
-  // border-left: 10pt;
-  // border-left-color: black;
+}
+
+.button {
+  font-family: "Dancing Script","Zapfino","Monotype Corsiva",cursive;
+  background-color: $indigo;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  border-radius: 12px;
+  margin-top: 1em;
 }
 
 .sidebar, .recentposts {
