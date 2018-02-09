@@ -5,7 +5,9 @@ preview: /2017/02/04/limited-company/girl-umbrella-bridge1.jpg
 category: working-abroad non-clinical
 ---
 
-**UPDATE: Changes to the IR35 Intermediaries legislation, coming into effect for the 2017/2018 tax year, mean that working as an OT locum through a limited company is no longer an attractive option for me.** 
+**UPDATE: Changes to the IR35 Intermediaries legislation, coming into effect for **
+**the 2017/2018 tax year, mean that working as an OT locum through a limited **
+**company is no longer an attractive option for me.** 
 
 In the six weeks before I left Australia to start working in the UK, the agencies
 started asking "Are you going with an umbrella company or a limited company?"
