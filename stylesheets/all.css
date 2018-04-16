@@ -224,7 +224,7 @@ ul {
 /* line 198, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
 a:link {
   color: inherit;
-  text-decoration: none; }
+  text-decoration: underline; }
 
 /* visited link */
 /* line 204, /home/ubuntu/workspace/otequip-info/source/stylesheets/all.scss */
